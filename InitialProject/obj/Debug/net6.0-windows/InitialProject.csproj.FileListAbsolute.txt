@@ -1,0 +1,538 @@
+C:\Users\Lenovo\Documents\GitHub\Sims ptrao\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\Resources\Images\add.png
+C:\Users\Lenovo\Documents\GitHub\Sims ptrao\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\Resources\Images\delete.png
+C:\Users\Lenovo\Documents\GitHub\Sims ptrao\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\Resources\Images\edit.png
+C:\Users\Lenovo\Documents\GitHub\Sims ptrao\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\Resources\Images\view.png
+C:\Users\Lenovo\Documents\GitHub\Sims ptrao\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\InitialProject.exe
+C:\Users\Lenovo\Documents\GitHub\Sims ptrao\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\InitialProject.deps.json
+C:\Users\Lenovo\Documents\GitHub\Sims ptrao\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\InitialProject.runtimeconfig.json
+C:\Users\Lenovo\Documents\GitHub\Sims ptrao\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\InitialProject.dll
+C:\Users\Lenovo\Documents\GitHub\Sims ptrao\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\InitialProject.pdb
+C:\Users\Lenovo\Documents\GitHub\Sims ptrao\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\Lenovo\Documents\GitHub\Sims ptrao\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\Lenovo\Documents\GitHub\Sims ptrao\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Lenovo\Documents\GitHub\Sims ptrao\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Lenovo\Documents\GitHub\Sims ptrao\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Lenovo\Documents\GitHub\Sims ptrao\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Lenovo\Documents\GitHub\Sims ptrao\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Lenovo\Documents\GitHub\Sims ptrao\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Lenovo\Documents\GitHub\Sims ptrao\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Lenovo\Documents\GitHub\Sims ptrao\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Lenovo\Documents\GitHub\Sims ptrao\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Lenovo\Documents\GitHub\Sims ptrao\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Lenovo\Documents\GitHub\Sims ptrao\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Lenovo\Documents\GitHub\Sims ptrao\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Lenovo\Documents\GitHub\Sims ptrao\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Lenovo\Documents\GitHub\Sims ptrao\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Lenovo\Documents\GitHub\Sims ptrao\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Lenovo\Documents\GitHub\Sims ptrao\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Lenovo\Documents\GitHub\Sims ptrao\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\SQLitePCLRaw.core.dll
+C:\Users\Lenovo\Documents\GitHub\Sims ptrao\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Lenovo\Documents\GitHub\Sims ptrao\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Lenovo\Documents\GitHub\Sims ptrao\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Lenovo\Documents\GitHub\Sims ptrao\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Lenovo\Documents\GitHub\Sims ptrao\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Lenovo\Documents\GitHub\Sims ptrao\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Lenovo\Documents\GitHub\Sims ptrao\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Lenovo\Documents\GitHub\Sims ptrao\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Lenovo\Documents\GitHub\Sims ptrao\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Lenovo\Documents\GitHub\Sims ptrao\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Lenovo\Documents\GitHub\Sims ptrao\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Lenovo\Documents\GitHub\Sims ptrao\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Lenovo\Documents\GitHub\Sims ptrao\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Lenovo\Documents\GitHub\Sims ptrao\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Lenovo\Documents\GitHub\Sims ptrao\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Lenovo\Documents\GitHub\Sims ptrao\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Lenovo\Documents\GitHub\Sims ptrao\SIMS-projekat-Guest\InitialProject\InitialProject\obj\Debug\net6.0-windows\InitialProject.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\GitHub\Sims ptrao\SIMS-projekat-Guest\InitialProject\InitialProject\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Lenovo\Documents\GitHub\Sims ptrao\SIMS-projekat-Guest\InitialProject\InitialProject\obj\Debug\net6.0-windows\InitialProject_Content.g.cs
+C:\Users\Lenovo\Documents\GitHub\Sims ptrao\SIMS-projekat-Guest\InitialProject\InitialProject\obj\Debug\net6.0-windows\InitialProject_MarkupCompile.cache
+C:\Users\Lenovo\Documents\GitHub\Sims ptrao\SIMS-projekat-Guest\InitialProject\InitialProject\obj\Debug\net6.0-windows\InitialProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\GitHub\Sims ptrao\SIMS-projekat-Guest\InitialProject\InitialProject\obj\Debug\net6.0-windows\InitialProject.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\GitHub\Sims ptrao\SIMS-projekat-Guest\InitialProject\InitialProject\obj\Debug\net6.0-windows\InitialProject.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\GitHub\Sims ptrao\SIMS-projekat-Guest\InitialProject\InitialProject\obj\Debug\net6.0-windows\InitialProject.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\GitHub\Sims ptrao\SIMS-projekat-Guest\InitialProject\InitialProject\obj\Debug\net6.0-windows\InitialProject.csproj.CopyComplete
+C:\Users\Lenovo\Documents\GitHub\Sims ptrao\SIMS-projekat-Guest\InitialProject\InitialProject\obj\Debug\net6.0-windows\InitialProject.dll
+C:\Users\Lenovo\Documents\GitHub\Sims ptrao\SIMS-projekat-Guest\InitialProject\InitialProject\obj\Debug\net6.0-windows\refint\InitialProject.dll
+C:\Users\Lenovo\Documents\GitHub\Sims ptrao\SIMS-projekat-Guest\InitialProject\InitialProject\obj\Debug\net6.0-windows\InitialProject.pdb
+C:\Users\Lenovo\Documents\GitHub\Sims ptrao\SIMS-projekat-Guest\InitialProject\InitialProject\obj\Debug\net6.0-windows\InitialProject.genruntimeconfig.cache
+C:\Users\Lenovo\Documents\GitHub\Sims ptrao\SIMS-projekat-Guest\InitialProject\InitialProject\obj\Debug\net6.0-windows\ref\InitialProject.dll
+C:\Users\Lenovo\Desktop\MOJ PROJEKAT SA PRVOM FUNK\Kontrolna tacka 1\SIMS-projekat Guest\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\Resources\Images\add.png
+C:\Users\Lenovo\Desktop\MOJ PROJEKAT SA PRVOM FUNK\Kontrolna tacka 1\SIMS-projekat Guest\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\Resources\Images\delete.png
+C:\Users\Lenovo\Desktop\MOJ PROJEKAT SA PRVOM FUNK\Kontrolna tacka 1\SIMS-projekat Guest\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\Resources\Images\edit.png
+C:\Users\Lenovo\Desktop\MOJ PROJEKAT SA PRVOM FUNK\Kontrolna tacka 1\SIMS-projekat Guest\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\Resources\Images\view.png
+C:\Users\Lenovo\Desktop\MOJ PROJEKAT SA PRVOM FUNK\Kontrolna tacka 1\SIMS-projekat Guest\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\InitialProject.exe
+C:\Users\Lenovo\Desktop\MOJ PROJEKAT SA PRVOM FUNK\Kontrolna tacka 1\SIMS-projekat Guest\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\InitialProject.deps.json
+C:\Users\Lenovo\Desktop\MOJ PROJEKAT SA PRVOM FUNK\Kontrolna tacka 1\SIMS-projekat Guest\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\InitialProject.runtimeconfig.json
+C:\Users\Lenovo\Desktop\MOJ PROJEKAT SA PRVOM FUNK\Kontrolna tacka 1\SIMS-projekat Guest\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\InitialProject.dll
+C:\Users\Lenovo\Desktop\MOJ PROJEKAT SA PRVOM FUNK\Kontrolna tacka 1\SIMS-projekat Guest\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\InitialProject.pdb
+C:\Users\Lenovo\Desktop\MOJ PROJEKAT SA PRVOM FUNK\Kontrolna tacka 1\SIMS-projekat Guest\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\Lenovo\Desktop\MOJ PROJEKAT SA PRVOM FUNK\Kontrolna tacka 1\SIMS-projekat Guest\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\Lenovo\Desktop\MOJ PROJEKAT SA PRVOM FUNK\Kontrolna tacka 1\SIMS-projekat Guest\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Lenovo\Desktop\MOJ PROJEKAT SA PRVOM FUNK\Kontrolna tacka 1\SIMS-projekat Guest\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Lenovo\Desktop\MOJ PROJEKAT SA PRVOM FUNK\Kontrolna tacka 1\SIMS-projekat Guest\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Lenovo\Desktop\MOJ PROJEKAT SA PRVOM FUNK\Kontrolna tacka 1\SIMS-projekat Guest\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Lenovo\Desktop\MOJ PROJEKAT SA PRVOM FUNK\Kontrolna tacka 1\SIMS-projekat Guest\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Lenovo\Desktop\MOJ PROJEKAT SA PRVOM FUNK\Kontrolna tacka 1\SIMS-projekat Guest\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Lenovo\Desktop\MOJ PROJEKAT SA PRVOM FUNK\Kontrolna tacka 1\SIMS-projekat Guest\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Lenovo\Desktop\MOJ PROJEKAT SA PRVOM FUNK\Kontrolna tacka 1\SIMS-projekat Guest\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Lenovo\Desktop\MOJ PROJEKAT SA PRVOM FUNK\Kontrolna tacka 1\SIMS-projekat Guest\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Lenovo\Desktop\MOJ PROJEKAT SA PRVOM FUNK\Kontrolna tacka 1\SIMS-projekat Guest\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Lenovo\Desktop\MOJ PROJEKAT SA PRVOM FUNK\Kontrolna tacka 1\SIMS-projekat Guest\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Lenovo\Desktop\MOJ PROJEKAT SA PRVOM FUNK\Kontrolna tacka 1\SIMS-projekat Guest\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Lenovo\Desktop\MOJ PROJEKAT SA PRVOM FUNK\Kontrolna tacka 1\SIMS-projekat Guest\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Lenovo\Desktop\MOJ PROJEKAT SA PRVOM FUNK\Kontrolna tacka 1\SIMS-projekat Guest\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Lenovo\Desktop\MOJ PROJEKAT SA PRVOM FUNK\Kontrolna tacka 1\SIMS-projekat Guest\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Lenovo\Desktop\MOJ PROJEKAT SA PRVOM FUNK\Kontrolna tacka 1\SIMS-projekat Guest\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Lenovo\Desktop\MOJ PROJEKAT SA PRVOM FUNK\Kontrolna tacka 1\SIMS-projekat Guest\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\SQLitePCLRaw.core.dll
+C:\Users\Lenovo\Desktop\MOJ PROJEKAT SA PRVOM FUNK\Kontrolna tacka 1\SIMS-projekat Guest\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Lenovo\Desktop\MOJ PROJEKAT SA PRVOM FUNK\Kontrolna tacka 1\SIMS-projekat Guest\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Lenovo\Desktop\MOJ PROJEKAT SA PRVOM FUNK\Kontrolna tacka 1\SIMS-projekat Guest\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Lenovo\Desktop\MOJ PROJEKAT SA PRVOM FUNK\Kontrolna tacka 1\SIMS-projekat Guest\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Lenovo\Desktop\MOJ PROJEKAT SA PRVOM FUNK\Kontrolna tacka 1\SIMS-projekat Guest\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Lenovo\Desktop\MOJ PROJEKAT SA PRVOM FUNK\Kontrolna tacka 1\SIMS-projekat Guest\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Lenovo\Desktop\MOJ PROJEKAT SA PRVOM FUNK\Kontrolna tacka 1\SIMS-projekat Guest\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Lenovo\Desktop\MOJ PROJEKAT SA PRVOM FUNK\Kontrolna tacka 1\SIMS-projekat Guest\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Lenovo\Desktop\MOJ PROJEKAT SA PRVOM FUNK\Kontrolna tacka 1\SIMS-projekat Guest\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Lenovo\Desktop\MOJ PROJEKAT SA PRVOM FUNK\Kontrolna tacka 1\SIMS-projekat Guest\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Lenovo\Desktop\MOJ PROJEKAT SA PRVOM FUNK\Kontrolna tacka 1\SIMS-projekat Guest\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Lenovo\Desktop\MOJ PROJEKAT SA PRVOM FUNK\Kontrolna tacka 1\SIMS-projekat Guest\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Lenovo\Desktop\MOJ PROJEKAT SA PRVOM FUNK\Kontrolna tacka 1\SIMS-projekat Guest\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Lenovo\Desktop\MOJ PROJEKAT SA PRVOM FUNK\Kontrolna tacka 1\SIMS-projekat Guest\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Lenovo\Desktop\MOJ PROJEKAT SA PRVOM FUNK\Kontrolna tacka 1\SIMS-projekat Guest\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Lenovo\Desktop\MOJ PROJEKAT SA PRVOM FUNK\Kontrolna tacka 1\SIMS-projekat Guest\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Lenovo\Desktop\MOJ PROJEKAT SA PRVOM FUNK\Kontrolna tacka 1\SIMS-projekat Guest\SIMS-projekat-Guest\InitialProject\InitialProject\obj\Debug\net6.0-windows\InitialProject.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\MOJ PROJEKAT SA PRVOM FUNK\Kontrolna tacka 1\SIMS-projekat Guest\SIMS-projekat-Guest\InitialProject\InitialProject\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Lenovo\Desktop\MOJ PROJEKAT SA PRVOM FUNK\Kontrolna tacka 1\SIMS-projekat Guest\SIMS-projekat-Guest\InitialProject\InitialProject\obj\Debug\net6.0-windows\InitialProject_Content.g.cs
+C:\Users\Lenovo\Desktop\MOJ PROJEKAT SA PRVOM FUNK\Kontrolna tacka 1\SIMS-projekat Guest\SIMS-projekat-Guest\InitialProject\InitialProject\obj\Debug\net6.0-windows\InitialProject_MarkupCompile.cache
+C:\Users\Lenovo\Desktop\MOJ PROJEKAT SA PRVOM FUNK\Kontrolna tacka 1\SIMS-projekat Guest\SIMS-projekat-Guest\InitialProject\InitialProject\obj\Debug\net6.0-windows\InitialProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\MOJ PROJEKAT SA PRVOM FUNK\Kontrolna tacka 1\SIMS-projekat Guest\SIMS-projekat-Guest\InitialProject\InitialProject\obj\Debug\net6.0-windows\InitialProject.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\MOJ PROJEKAT SA PRVOM FUNK\Kontrolna tacka 1\SIMS-projekat Guest\SIMS-projekat-Guest\InitialProject\InitialProject\obj\Debug\net6.0-windows\InitialProject.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\MOJ PROJEKAT SA PRVOM FUNK\Kontrolna tacka 1\SIMS-projekat Guest\SIMS-projekat-Guest\InitialProject\InitialProject\obj\Debug\net6.0-windows\InitialProject.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\MOJ PROJEKAT SA PRVOM FUNK\Kontrolna tacka 1\SIMS-projekat Guest\SIMS-projekat-Guest\InitialProject\InitialProject\obj\Debug\net6.0-windows\InitialProject.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\MOJ PROJEKAT SA PRVOM FUNK\Kontrolna tacka 1\SIMS-projekat Guest\SIMS-projekat-Guest\InitialProject\InitialProject\obj\Debug\net6.0-windows\InitialProject.dll
+C:\Users\Lenovo\Desktop\MOJ PROJEKAT SA PRVOM FUNK\Kontrolna tacka 1\SIMS-projekat Guest\SIMS-projekat-Guest\InitialProject\InitialProject\obj\Debug\net6.0-windows\refint\InitialProject.dll
+C:\Users\Lenovo\Desktop\MOJ PROJEKAT SA PRVOM FUNK\Kontrolna tacka 1\SIMS-projekat Guest\SIMS-projekat-Guest\InitialProject\InitialProject\obj\Debug\net6.0-windows\InitialProject.pdb
+C:\Users\Lenovo\Desktop\MOJ PROJEKAT SA PRVOM FUNK\Kontrolna tacka 1\SIMS-projekat Guest\SIMS-projekat-Guest\InitialProject\InitialProject\obj\Debug\net6.0-windows\InitialProject.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\MOJ PROJEKAT SA PRVOM FUNK\Kontrolna tacka 1\SIMS-projekat Guest\SIMS-projekat-Guest\InitialProject\InitialProject\obj\Debug\net6.0-windows\ref\InitialProject.dll
+C:\Users\Lenovo\Documents\GitHub\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\Resources\Images\add.png
+C:\Users\Lenovo\Documents\GitHub\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\Resources\Images\delete.png
+C:\Users\Lenovo\Documents\GitHub\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\Resources\Images\edit.png
+C:\Users\Lenovo\Documents\GitHub\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\Resources\Images\view.png
+C:\Users\Lenovo\Documents\GitHub\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\InitialProject.exe
+C:\Users\Lenovo\Documents\GitHub\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\InitialProject.deps.json
+C:\Users\Lenovo\Documents\GitHub\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\InitialProject.runtimeconfig.json
+C:\Users\Lenovo\Documents\GitHub\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\InitialProject.dll
+C:\Users\Lenovo\Documents\GitHub\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\InitialProject.pdb
+C:\Users\Lenovo\Documents\GitHub\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\Lenovo\Documents\GitHub\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\Lenovo\Documents\GitHub\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Lenovo\Documents\GitHub\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Lenovo\Documents\GitHub\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Lenovo\Documents\GitHub\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Lenovo\Documents\GitHub\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Lenovo\Documents\GitHub\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Lenovo\Documents\GitHub\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Lenovo\Documents\GitHub\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Lenovo\Documents\GitHub\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Lenovo\Documents\GitHub\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Lenovo\Documents\GitHub\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Lenovo\Documents\GitHub\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Lenovo\Documents\GitHub\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Lenovo\Documents\GitHub\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Lenovo\Documents\GitHub\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Lenovo\Documents\GitHub\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Lenovo\Documents\GitHub\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\SQLitePCLRaw.core.dll
+C:\Users\Lenovo\Documents\GitHub\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Lenovo\Documents\GitHub\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Lenovo\Documents\GitHub\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Lenovo\Documents\GitHub\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Lenovo\Documents\GitHub\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Lenovo\Documents\GitHub\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Lenovo\Documents\GitHub\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Lenovo\Documents\GitHub\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Lenovo\Documents\GitHub\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Lenovo\Documents\GitHub\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Lenovo\Documents\GitHub\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Lenovo\Documents\GitHub\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Lenovo\Documents\GitHub\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Lenovo\Documents\GitHub\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Lenovo\Documents\GitHub\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Lenovo\Documents\GitHub\SIMS-projekat-Guest\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Lenovo\Documents\GitHub\SIMS-projekat-Guest\InitialProject\InitialProject\obj\Debug\net6.0-windows\InitialProject.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\GitHub\SIMS-projekat-Guest\InitialProject\InitialProject\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Lenovo\Documents\GitHub\SIMS-projekat-Guest\InitialProject\InitialProject\obj\Debug\net6.0-windows\InitialProject_Content.g.cs
+C:\Users\Lenovo\Documents\GitHub\SIMS-projekat-Guest\InitialProject\InitialProject\obj\Debug\net6.0-windows\InitialProject_MarkupCompile.cache
+C:\Users\Lenovo\Documents\GitHub\SIMS-projekat-Guest\InitialProject\InitialProject\obj\Debug\net6.0-windows\InitialProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\GitHub\SIMS-projekat-Guest\InitialProject\InitialProject\obj\Debug\net6.0-windows\InitialProject.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\GitHub\SIMS-projekat-Guest\InitialProject\InitialProject\obj\Debug\net6.0-windows\InitialProject.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\GitHub\SIMS-projekat-Guest\InitialProject\InitialProject\obj\Debug\net6.0-windows\InitialProject.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\GitHub\SIMS-projekat-Guest\InitialProject\InitialProject\obj\Debug\net6.0-windows\InitialProject.csproj.CopyComplete
+C:\Users\Lenovo\Documents\GitHub\SIMS-projekat-Guest\InitialProject\InitialProject\obj\Debug\net6.0-windows\InitialProject.dll
+C:\Users\Lenovo\Documents\GitHub\SIMS-projekat-Guest\InitialProject\InitialProject\obj\Debug\net6.0-windows\refint\InitialProject.dll
+C:\Users\Lenovo\Documents\GitHub\SIMS-projekat-Guest\InitialProject\InitialProject\obj\Debug\net6.0-windows\InitialProject.pdb
+C:\Users\Lenovo\Documents\GitHub\SIMS-projekat-Guest\InitialProject\InitialProject\obj\Debug\net6.0-windows\InitialProject.genruntimeconfig.cache
+C:\Users\Lenovo\Documents\GitHub\SIMS-projekat-Guest\InitialProject\InitialProject\obj\Debug\net6.0-windows\ref\InitialProject.dll
+C:\Users\Lenovo\Desktop\SKORO CELA PRVA TACKA\SIMS-projekat-SA 7 i 8 SWITCHOM\InitialProject\InitialProject\bin\Debug\net6.0-windows\Resources\Images\add.png
+C:\Users\Lenovo\Desktop\SKORO CELA PRVA TACKA\SIMS-projekat-SA 7 i 8 SWITCHOM\InitialProject\InitialProject\bin\Debug\net6.0-windows\Resources\Images\delete.png
+C:\Users\Lenovo\Desktop\SKORO CELA PRVA TACKA\SIMS-projekat-SA 7 i 8 SWITCHOM\InitialProject\InitialProject\bin\Debug\net6.0-windows\Resources\Images\edit.png
+C:\Users\Lenovo\Desktop\SKORO CELA PRVA TACKA\SIMS-projekat-SA 7 i 8 SWITCHOM\InitialProject\InitialProject\bin\Debug\net6.0-windows\Resources\Images\view.png
+C:\Users\Lenovo\Desktop\SKORO CELA PRVA TACKA\SIMS-projekat-SA 7 i 8 SWITCHOM\InitialProject\InitialProject\bin\Debug\net6.0-windows\InitialProject.exe
+C:\Users\Lenovo\Desktop\SKORO CELA PRVA TACKA\SIMS-projekat-SA 7 i 8 SWITCHOM\InitialProject\InitialProject\bin\Debug\net6.0-windows\InitialProject.deps.json
+C:\Users\Lenovo\Desktop\SKORO CELA PRVA TACKA\SIMS-projekat-SA 7 i 8 SWITCHOM\InitialProject\InitialProject\bin\Debug\net6.0-windows\InitialProject.runtimeconfig.json
+C:\Users\Lenovo\Desktop\SKORO CELA PRVA TACKA\SIMS-projekat-SA 7 i 8 SWITCHOM\InitialProject\InitialProject\bin\Debug\net6.0-windows\InitialProject.dll
+C:\Users\Lenovo\Desktop\SKORO CELA PRVA TACKA\SIMS-projekat-SA 7 i 8 SWITCHOM\InitialProject\InitialProject\bin\Debug\net6.0-windows\InitialProject.pdb
+C:\Users\Lenovo\Desktop\SKORO CELA PRVA TACKA\SIMS-projekat-SA 7 i 8 SWITCHOM\InitialProject\InitialProject\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\Lenovo\Desktop\SKORO CELA PRVA TACKA\SIMS-projekat-SA 7 i 8 SWITCHOM\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\Lenovo\Desktop\SKORO CELA PRVA TACKA\SIMS-projekat-SA 7 i 8 SWITCHOM\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Lenovo\Desktop\SKORO CELA PRVA TACKA\SIMS-projekat-SA 7 i 8 SWITCHOM\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Lenovo\Desktop\SKORO CELA PRVA TACKA\SIMS-projekat-SA 7 i 8 SWITCHOM\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Lenovo\Desktop\SKORO CELA PRVA TACKA\SIMS-projekat-SA 7 i 8 SWITCHOM\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Lenovo\Desktop\SKORO CELA PRVA TACKA\SIMS-projekat-SA 7 i 8 SWITCHOM\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Lenovo\Desktop\SKORO CELA PRVA TACKA\SIMS-projekat-SA 7 i 8 SWITCHOM\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Lenovo\Desktop\SKORO CELA PRVA TACKA\SIMS-projekat-SA 7 i 8 SWITCHOM\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Lenovo\Desktop\SKORO CELA PRVA TACKA\SIMS-projekat-SA 7 i 8 SWITCHOM\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Lenovo\Desktop\SKORO CELA PRVA TACKA\SIMS-projekat-SA 7 i 8 SWITCHOM\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Lenovo\Desktop\SKORO CELA PRVA TACKA\SIMS-projekat-SA 7 i 8 SWITCHOM\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Lenovo\Desktop\SKORO CELA PRVA TACKA\SIMS-projekat-SA 7 i 8 SWITCHOM\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Lenovo\Desktop\SKORO CELA PRVA TACKA\SIMS-projekat-SA 7 i 8 SWITCHOM\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Lenovo\Desktop\SKORO CELA PRVA TACKA\SIMS-projekat-SA 7 i 8 SWITCHOM\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Lenovo\Desktop\SKORO CELA PRVA TACKA\SIMS-projekat-SA 7 i 8 SWITCHOM\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Lenovo\Desktop\SKORO CELA PRVA TACKA\SIMS-projekat-SA 7 i 8 SWITCHOM\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Lenovo\Desktop\SKORO CELA PRVA TACKA\SIMS-projekat-SA 7 i 8 SWITCHOM\InitialProject\InitialProject\bin\Debug\net6.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Lenovo\Desktop\SKORO CELA PRVA TACKA\SIMS-projekat-SA 7 i 8 SWITCHOM\InitialProject\InitialProject\bin\Debug\net6.0-windows\SQLitePCLRaw.core.dll
+C:\Users\Lenovo\Desktop\SKORO CELA PRVA TACKA\SIMS-projekat-SA 7 i 8 SWITCHOM\InitialProject\InitialProject\bin\Debug\net6.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Lenovo\Desktop\SKORO CELA PRVA TACKA\SIMS-projekat-SA 7 i 8 SWITCHOM\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Lenovo\Desktop\SKORO CELA PRVA TACKA\SIMS-projekat-SA 7 i 8 SWITCHOM\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Lenovo\Desktop\SKORO CELA PRVA TACKA\SIMS-projekat-SA 7 i 8 SWITCHOM\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Lenovo\Desktop\SKORO CELA PRVA TACKA\SIMS-projekat-SA 7 i 8 SWITCHOM\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Lenovo\Desktop\SKORO CELA PRVA TACKA\SIMS-projekat-SA 7 i 8 SWITCHOM\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Lenovo\Desktop\SKORO CELA PRVA TACKA\SIMS-projekat-SA 7 i 8 SWITCHOM\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Lenovo\Desktop\SKORO CELA PRVA TACKA\SIMS-projekat-SA 7 i 8 SWITCHOM\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Lenovo\Desktop\SKORO CELA PRVA TACKA\SIMS-projekat-SA 7 i 8 SWITCHOM\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Lenovo\Desktop\SKORO CELA PRVA TACKA\SIMS-projekat-SA 7 i 8 SWITCHOM\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Lenovo\Desktop\SKORO CELA PRVA TACKA\SIMS-projekat-SA 7 i 8 SWITCHOM\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Lenovo\Desktop\SKORO CELA PRVA TACKA\SIMS-projekat-SA 7 i 8 SWITCHOM\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Lenovo\Desktop\SKORO CELA PRVA TACKA\SIMS-projekat-SA 7 i 8 SWITCHOM\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Lenovo\Desktop\SKORO CELA PRVA TACKA\SIMS-projekat-SA 7 i 8 SWITCHOM\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Lenovo\Desktop\SKORO CELA PRVA TACKA\SIMS-projekat-SA 7 i 8 SWITCHOM\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Lenovo\Desktop\SKORO CELA PRVA TACKA\SIMS-projekat-SA 7 i 8 SWITCHOM\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Lenovo\Desktop\SKORO CELA PRVA TACKA\SIMS-projekat-SA 7 i 8 SWITCHOM\InitialProject\InitialProject\obj\Debug\net6.0-windows\InitialProject.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\SKORO CELA PRVA TACKA\SIMS-projekat-SA 7 i 8 SWITCHOM\InitialProject\InitialProject\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Lenovo\Desktop\SKORO CELA PRVA TACKA\SIMS-projekat-SA 7 i 8 SWITCHOM\InitialProject\InitialProject\obj\Debug\net6.0-windows\InitialProject_Content.g.cs
+C:\Users\Lenovo\Desktop\SKORO CELA PRVA TACKA\SIMS-projekat-SA 7 i 8 SWITCHOM\InitialProject\InitialProject\obj\Debug\net6.0-windows\InitialProject_MarkupCompile.cache
+C:\Users\Lenovo\Desktop\SKORO CELA PRVA TACKA\SIMS-projekat-SA 7 i 8 SWITCHOM\InitialProject\InitialProject\obj\Debug\net6.0-windows\InitialProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\SKORO CELA PRVA TACKA\SIMS-projekat-SA 7 i 8 SWITCHOM\InitialProject\InitialProject\obj\Debug\net6.0-windows\InitialProject.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\SKORO CELA PRVA TACKA\SIMS-projekat-SA 7 i 8 SWITCHOM\InitialProject\InitialProject\obj\Debug\net6.0-windows\InitialProject.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\SKORO CELA PRVA TACKA\SIMS-projekat-SA 7 i 8 SWITCHOM\InitialProject\InitialProject\obj\Debug\net6.0-windows\InitialProject.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\SKORO CELA PRVA TACKA\SIMS-projekat-SA 7 i 8 SWITCHOM\InitialProject\InitialProject\obj\Debug\net6.0-windows\InitialProject.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\SKORO CELA PRVA TACKA\SIMS-projekat-SA 7 i 8 SWITCHOM\InitialProject\InitialProject\obj\Debug\net6.0-windows\InitialProject.dll
+C:\Users\Lenovo\Desktop\SKORO CELA PRVA TACKA\SIMS-projekat-SA 7 i 8 SWITCHOM\InitialProject\InitialProject\obj\Debug\net6.0-windows\refint\InitialProject.dll
+C:\Users\Lenovo\Desktop\SKORO CELA PRVA TACKA\SIMS-projekat-SA 7 i 8 SWITCHOM\InitialProject\InitialProject\obj\Debug\net6.0-windows\InitialProject.pdb
+C:\Users\Lenovo\Desktop\SKORO CELA PRVA TACKA\SIMS-projekat-SA 7 i 8 SWITCHOM\InitialProject\InitialProject\obj\Debug\net6.0-windows\InitialProject.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\SKORO CELA PRVA TACKA\SIMS-projekat-SA 7 i 8 SWITCHOM\InitialProject\InitialProject\obj\Debug\net6.0-windows\ref\InitialProject.dll
+C:\Users\Lenovo\Desktop\SIMS trenutan\InitialProject\InitialProject\bin\Debug\net6.0-windows\Resources\Images\add.png
+C:\Users\Lenovo\Desktop\SIMS trenutan\InitialProject\InitialProject\bin\Debug\net6.0-windows\Resources\Images\delete.png
+C:\Users\Lenovo\Desktop\SIMS trenutan\InitialProject\InitialProject\bin\Debug\net6.0-windows\Resources\Images\edit.png
+C:\Users\Lenovo\Desktop\SIMS trenutan\InitialProject\InitialProject\bin\Debug\net6.0-windows\Resources\Images\view.png
+C:\Users\Lenovo\Desktop\SIMS trenutan\InitialProject\InitialProject\bin\Debug\net6.0-windows\InitialProject.exe
+C:\Users\Lenovo\Desktop\SIMS trenutan\InitialProject\InitialProject\bin\Debug\net6.0-windows\InitialProject.deps.json
+C:\Users\Lenovo\Desktop\SIMS trenutan\InitialProject\InitialProject\bin\Debug\net6.0-windows\InitialProject.runtimeconfig.json
+C:\Users\Lenovo\Desktop\SIMS trenutan\InitialProject\InitialProject\bin\Debug\net6.0-windows\InitialProject.dll
+C:\Users\Lenovo\Desktop\SIMS trenutan\InitialProject\InitialProject\bin\Debug\net6.0-windows\InitialProject.pdb
+C:\Users\Lenovo\Desktop\SIMS trenutan\InitialProject\InitialProject\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\Lenovo\Desktop\SIMS trenutan\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\Lenovo\Desktop\SIMS trenutan\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Lenovo\Desktop\SIMS trenutan\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Lenovo\Desktop\SIMS trenutan\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Lenovo\Desktop\SIMS trenutan\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Lenovo\Desktop\SIMS trenutan\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Lenovo\Desktop\SIMS trenutan\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Lenovo\Desktop\SIMS trenutan\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Lenovo\Desktop\SIMS trenutan\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Lenovo\Desktop\SIMS trenutan\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Lenovo\Desktop\SIMS trenutan\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Lenovo\Desktop\SIMS trenutan\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Lenovo\Desktop\SIMS trenutan\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Lenovo\Desktop\SIMS trenutan\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Lenovo\Desktop\SIMS trenutan\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Lenovo\Desktop\SIMS trenutan\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Lenovo\Desktop\SIMS trenutan\InitialProject\InitialProject\bin\Debug\net6.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Lenovo\Desktop\SIMS trenutan\InitialProject\InitialProject\bin\Debug\net6.0-windows\SQLitePCLRaw.core.dll
+C:\Users\Lenovo\Desktop\SIMS trenutan\InitialProject\InitialProject\bin\Debug\net6.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Lenovo\Desktop\SIMS trenutan\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Lenovo\Desktop\SIMS trenutan\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Lenovo\Desktop\SIMS trenutan\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Lenovo\Desktop\SIMS trenutan\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Lenovo\Desktop\SIMS trenutan\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Lenovo\Desktop\SIMS trenutan\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Lenovo\Desktop\SIMS trenutan\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Lenovo\Desktop\SIMS trenutan\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Lenovo\Desktop\SIMS trenutan\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Lenovo\Desktop\SIMS trenutan\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Lenovo\Desktop\SIMS trenutan\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Lenovo\Desktop\SIMS trenutan\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Lenovo\Desktop\SIMS trenutan\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Lenovo\Desktop\SIMS trenutan\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Lenovo\Desktop\SIMS trenutan\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Lenovo\Desktop\SIMS trenutan\InitialProject\InitialProject\obj\Debug\net6.0-windows\InitialProject.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\SIMS trenutan\InitialProject\InitialProject\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Lenovo\Desktop\SIMS trenutan\InitialProject\InitialProject\obj\Debug\net6.0-windows\InitialProject_Content.g.cs
+C:\Users\Lenovo\Desktop\SIMS trenutan\InitialProject\InitialProject\obj\Debug\net6.0-windows\InitialProject_MarkupCompile.cache
+C:\Users\Lenovo\Desktop\SIMS trenutan\InitialProject\InitialProject\obj\Debug\net6.0-windows\InitialProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\SIMS trenutan\InitialProject\InitialProject\obj\Debug\net6.0-windows\InitialProject.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\SIMS trenutan\InitialProject\InitialProject\obj\Debug\net6.0-windows\InitialProject.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\SIMS trenutan\InitialProject\InitialProject\obj\Debug\net6.0-windows\InitialProject.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\SIMS trenutan\InitialProject\InitialProject\obj\Debug\net6.0-windows\InitialProject.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\SIMS trenutan\InitialProject\InitialProject\obj\Debug\net6.0-windows\InitialProject.dll
+C:\Users\Lenovo\Desktop\SIMS trenutan\InitialProject\InitialProject\obj\Debug\net6.0-windows\refint\InitialProject.dll
+C:\Users\Lenovo\Desktop\SIMS trenutan\InitialProject\InitialProject\obj\Debug\net6.0-windows\InitialProject.pdb
+C:\Users\Lenovo\Desktop\SIMS trenutan\InitialProject\InitialProject\obj\Debug\net6.0-windows\InitialProject.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\SIMS trenutan\InitialProject\InitialProject\obj\Debug\net6.0-windows\ref\InitialProject.dll
+C:\Users\Lenovo\Desktop\SIMS KT2 Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\Resources\Images\add.png
+C:\Users\Lenovo\Desktop\SIMS KT2 Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\Resources\Images\delete.png
+C:\Users\Lenovo\Desktop\SIMS KT2 Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\Resources\Images\edit.png
+C:\Users\Lenovo\Desktop\SIMS KT2 Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\Resources\Images\view.png
+C:\Users\Lenovo\Desktop\SIMS KT2 Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\InitialProject.exe
+C:\Users\Lenovo\Desktop\SIMS KT2 Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\InitialProject.deps.json
+C:\Users\Lenovo\Desktop\SIMS KT2 Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\InitialProject.runtimeconfig.json
+C:\Users\Lenovo\Desktop\SIMS KT2 Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\InitialProject.dll
+C:\Users\Lenovo\Desktop\SIMS KT2 Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\InitialProject.pdb
+C:\Users\Lenovo\Desktop\SIMS KT2 Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\Lenovo\Desktop\SIMS KT2 Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\Lenovo\Desktop\SIMS KT2 Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Lenovo\Desktop\SIMS KT2 Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Lenovo\Desktop\SIMS KT2 Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Lenovo\Desktop\SIMS KT2 Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Lenovo\Desktop\SIMS KT2 Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Lenovo\Desktop\SIMS KT2 Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Lenovo\Desktop\SIMS KT2 Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Lenovo\Desktop\SIMS KT2 Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Lenovo\Desktop\SIMS KT2 Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Lenovo\Desktop\SIMS KT2 Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Lenovo\Desktop\SIMS KT2 Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Lenovo\Desktop\SIMS KT2 Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Lenovo\Desktop\SIMS KT2 Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Lenovo\Desktop\SIMS KT2 Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Lenovo\Desktop\SIMS KT2 Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Lenovo\Desktop\SIMS KT2 Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Lenovo\Desktop\SIMS KT2 Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\SQLitePCLRaw.core.dll
+C:\Users\Lenovo\Desktop\SIMS KT2 Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Lenovo\Desktop\SIMS KT2 Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Lenovo\Desktop\SIMS KT2 Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Lenovo\Desktop\SIMS KT2 Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Lenovo\Desktop\SIMS KT2 Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Lenovo\Desktop\SIMS KT2 Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Lenovo\Desktop\SIMS KT2 Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Lenovo\Desktop\SIMS KT2 Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Lenovo\Desktop\SIMS KT2 Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Lenovo\Desktop\SIMS KT2 Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Lenovo\Desktop\SIMS KT2 Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Lenovo\Desktop\SIMS KT2 Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Lenovo\Desktop\SIMS KT2 Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Lenovo\Desktop\SIMS KT2 Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Lenovo\Desktop\SIMS KT2 Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Lenovo\Desktop\SIMS KT2 Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Lenovo\Desktop\SIMS KT2 Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\InitialProject.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\SIMS KT2 Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Lenovo\Desktop\SIMS KT2 Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\InitialProject_Content.g.cs
+C:\Users\Lenovo\Desktop\SIMS KT2 Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\InitialProject_MarkupCompile.cache
+C:\Users\Lenovo\Desktop\SIMS KT2 Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\InitialProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\SIMS KT2 Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\InitialProject.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\SIMS KT2 Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\InitialProject.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\SIMS KT2 Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\InitialProject.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\SIMS KT2 Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\InitialProject.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\SIMS KT2 Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\InitialProject.dll
+C:\Users\Lenovo\Desktop\SIMS KT2 Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\refint\InitialProject.dll
+C:\Users\Lenovo\Desktop\SIMS KT2 Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\InitialProject.pdb
+C:\Users\Lenovo\Desktop\SIMS KT2 Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\InitialProject.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\SIMS KT2 Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\ref\InitialProject.dll
+C:\Users\Lenovo\Desktop\SIMS KT2 Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\View\CancelReservateWindow.g.cs
+C:\Users\Lenovo\Desktop\SIMS KT2 Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\View\GuestWindow.g.cs
+C:\Users\Lenovo\Desktop\SIMS KT2 Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\View\RateAccomodationWindow.g.cs
+C:\Users\Lenovo\Desktop\SIMS KT2 Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\View\ReccommendationRenovationWindow.g.cs
+C:\Users\Lenovo\Desktop\SIMS KT2 Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\View\ReservateAccomodationWindow.g.cs
+C:\Users\Lenovo\Desktop\SIMS KT2 Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\View\ShowAccomodationsWindow.g.cs
+C:\Users\Lenovo\Desktop\SIMS KT2 Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\InitialProject_MarkupCompile.lref
+C:\Users\Lenovo\Desktop\SIMS KT2 Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\View\CancelReservateWindow.baml
+C:\Users\Lenovo\Desktop\SIMS KT2 Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\View\GuestWindow.baml
+C:\Users\Lenovo\Desktop\SIMS KT2 Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\View\RateAccomodationWindow.baml
+C:\Users\Lenovo\Desktop\SIMS KT2 Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\View\ReccommendationRenovationWindow.baml
+C:\Users\Lenovo\Desktop\SIMS KT2 Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\View\ReservateAccomodationWindow.baml
+C:\Users\Lenovo\Desktop\SIMS KT2 Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\View\ShowAccomodationsWindow.baml
+C:\Users\Lenovo\Desktop\SIMS KT2 Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\InitialProject.g.resources
+C:\Users\Lenovo\Desktop\SIMS KT2 Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\View\aaaa.g.cs
+C:\Users\Lenovo\Desktop\SIMS KT2 Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\View\RateReccommendationWindow.g.cs
+C:\Users\Lenovo\Desktop\SIMS KT2 Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\View\ReservateCancelWindow.g.cs
+C:\Users\Lenovo\Desktop\SIMS KT2 Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\View\aaaa.baml
+C:\Users\Lenovo\Desktop\SIMS KT2 Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\View\RateReccommendationWindow.baml
+C:\Users\Lenovo\Desktop\SIMS KT2 Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\View\ReservateCancelWindow.baml
+C:\Users\Lenovo\Desktop\SIMS KT2 Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\View\RatingForYou.g.cs
+C:\Users\Lenovo\Desktop\SIMS KT2 Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\View\RatingForYou.baml
+C:\Users\Lenovo\Desktop\SIMS KT2 Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\View\ForumWindow.g.cs
+C:\Users\Lenovo\Desktop\SIMS KT2 Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\View\OpenForum.g.cs
+C:\Users\Lenovo\Desktop\SIMS KT2 Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\View\ForumWindow.baml
+C:\Users\Lenovo\Desktop\SIMS KT2 Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\View\OpenForum.baml
+C:\Users\Lenovo\Desktop\SIMS KT2 Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\View\AddForumCommentWindow.g.cs
+C:\Users\Lenovo\Desktop\SIMS KT2 Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\View\AddForumCommentWindow.baml
+C:\Users\Lenovo\Desktop\SIMS KT2 Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\View\CloseForumWindow.g.cs
+C:\Users\Lenovo\Desktop\SIMS KT2 Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\View\CloseForumWindow.baml
+C:\Users\Lenovo\Desktop\SIMS Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\Resources\Images\add.png
+C:\Users\Lenovo\Desktop\SIMS Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\Resources\Images\delete.png
+C:\Users\Lenovo\Desktop\SIMS Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\Resources\Images\edit.png
+C:\Users\Lenovo\Desktop\SIMS Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\Resources\Images\view.png
+C:\Users\Lenovo\Desktop\SIMS Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\InitialProject.exe
+C:\Users\Lenovo\Desktop\SIMS Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\InitialProject.deps.json
+C:\Users\Lenovo\Desktop\SIMS Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\InitialProject.runtimeconfig.json
+C:\Users\Lenovo\Desktop\SIMS Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\InitialProject.dll
+C:\Users\Lenovo\Desktop\SIMS Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\InitialProject.pdb
+C:\Users\Lenovo\Desktop\SIMS Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\Lenovo\Desktop\SIMS Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\Lenovo\Desktop\SIMS Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Lenovo\Desktop\SIMS Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Lenovo\Desktop\SIMS Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Lenovo\Desktop\SIMS Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Lenovo\Desktop\SIMS Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Lenovo\Desktop\SIMS Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Lenovo\Desktop\SIMS Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Lenovo\Desktop\SIMS Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Lenovo\Desktop\SIMS Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Lenovo\Desktop\SIMS Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Lenovo\Desktop\SIMS Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Lenovo\Desktop\SIMS Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Lenovo\Desktop\SIMS Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Lenovo\Desktop\SIMS Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Lenovo\Desktop\SIMS Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Lenovo\Desktop\SIMS Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Lenovo\Desktop\SIMS Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\SQLitePCLRaw.core.dll
+C:\Users\Lenovo\Desktop\SIMS Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Lenovo\Desktop\SIMS Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Lenovo\Desktop\SIMS Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Lenovo\Desktop\SIMS Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Lenovo\Desktop\SIMS Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Lenovo\Desktop\SIMS Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Lenovo\Desktop\SIMS Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Lenovo\Desktop\SIMS Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Lenovo\Desktop\SIMS Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Lenovo\Desktop\SIMS Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Lenovo\Desktop\SIMS Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Lenovo\Desktop\SIMS Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Lenovo\Desktop\SIMS Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Lenovo\Desktop\SIMS Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Lenovo\Desktop\SIMS Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Lenovo\Desktop\SIMS Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Lenovo\Desktop\SIMS Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\InitialProject.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\SIMS Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\View\ForumWindow.g.cs
+C:\Users\Lenovo\Desktop\SIMS Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\View\GuestWindow.g.cs
+C:\Users\Lenovo\Desktop\SIMS Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\View\ShowAccomodationsWindow.g.cs
+C:\Users\Lenovo\Desktop\SIMS Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Lenovo\Desktop\SIMS Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\InitialProject_Content.g.cs
+C:\Users\Lenovo\Desktop\SIMS Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\InitialProject_MarkupCompile.cache
+C:\Users\Lenovo\Desktop\SIMS Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\InitialProject_MarkupCompile.lref
+C:\Users\Lenovo\Desktop\SIMS Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\View\ForumWindow.baml
+C:\Users\Lenovo\Desktop\SIMS Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\View\GuestWindow.baml
+C:\Users\Lenovo\Desktop\SIMS Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\View\ShowAccomodationsWindow.baml
+C:\Users\Lenovo\Desktop\SIMS Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\InitialProject.g.resources
+C:\Users\Lenovo\Desktop\SIMS Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\InitialProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\SIMS Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\InitialProject.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\SIMS Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\InitialProject.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\SIMS Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\InitialProject.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\SIMS Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\InitialProject.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\SIMS Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\InitialProject.dll
+C:\Users\Lenovo\Desktop\SIMS Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\refint\InitialProject.dll
+C:\Users\Lenovo\Desktop\SIMS Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\InitialProject.pdb
+C:\Users\Lenovo\Desktop\SIMS Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\InitialProject.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\SIMS Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\ref\InitialProject.dll
+C:\Users\Lenovo\Desktop\SIMS Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\View\FindAvailableWindow.g.cs
+C:\Users\Lenovo\Desktop\SIMS Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\View\FindAvailableWindow.baml
+C:\Users\Lenovo\Desktop\SIMS Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\View\AccomodationSpecialWindow.g.cs
+C:\Users\Lenovo\Desktop\SIMS Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\View\AccomodationSpecialWindow.baml
+C:\Users\Lenovo\Desktop\SIMS Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\View\TutorialWindow.g.cs
+C:\Users\Lenovo\Desktop\SIMS Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\View\TutorialWindow.baml
+C:\Users\Lenovo\Desktop\SIMS Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\View\PerformanceWindow.g.cs
+C:\Users\Lenovo\Desktop\SIMS Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\View\ReservatingWindow.g.cs
+C:\Users\Lenovo\Desktop\SIMS Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\View\PerformanceWindow.baml
+C:\Users\Lenovo\Desktop\SIMS Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\View\ReservatingWindow.baml
+C:\Users\Lenovo\Desktop\SIMS Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\View\LoginWindow.g.cs
+C:\Users\Lenovo\Desktop\SIMS Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\View\LoginWindow.baml
+C:\Users\Lenovo\Desktop\SIMS Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\View\ReportWindow.g.cs
+C:\Users\Lenovo\Desktop\SIMS Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\View\ReportWindow.baml
+C:\Users\Lenovo\Desktop\6. SEMESTAR\SIMS Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\Resources\Images\add.png
+C:\Users\Lenovo\Desktop\6. SEMESTAR\SIMS Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\Resources\Images\delete.png
+C:\Users\Lenovo\Desktop\6. SEMESTAR\SIMS Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\Resources\Images\edit.png
+C:\Users\Lenovo\Desktop\6. SEMESTAR\SIMS Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\Resources\Images\view.png
+C:\Users\Lenovo\Desktop\6. SEMESTAR\SIMS Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\InitialProject.exe
+C:\Users\Lenovo\Desktop\6. SEMESTAR\SIMS Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\InitialProject.deps.json
+C:\Users\Lenovo\Desktop\6. SEMESTAR\SIMS Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\InitialProject.runtimeconfig.json
+C:\Users\Lenovo\Desktop\6. SEMESTAR\SIMS Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\InitialProject.dll
+C:\Users\Lenovo\Desktop\6. SEMESTAR\SIMS Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\InitialProject.pdb
+C:\Users\Lenovo\Desktop\6. SEMESTAR\SIMS Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\Lenovo\Desktop\6. SEMESTAR\SIMS Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\Lenovo\Desktop\6. SEMESTAR\SIMS Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Lenovo\Desktop\6. SEMESTAR\SIMS Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Lenovo\Desktop\6. SEMESTAR\SIMS Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Lenovo\Desktop\6. SEMESTAR\SIMS Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Lenovo\Desktop\6. SEMESTAR\SIMS Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Lenovo\Desktop\6. SEMESTAR\SIMS Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Lenovo\Desktop\6. SEMESTAR\SIMS Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Lenovo\Desktop\6. SEMESTAR\SIMS Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Lenovo\Desktop\6. SEMESTAR\SIMS Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Lenovo\Desktop\6. SEMESTAR\SIMS Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Lenovo\Desktop\6. SEMESTAR\SIMS Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Lenovo\Desktop\6. SEMESTAR\SIMS Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Lenovo\Desktop\6. SEMESTAR\SIMS Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Lenovo\Desktop\6. SEMESTAR\SIMS Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Lenovo\Desktop\6. SEMESTAR\SIMS Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Lenovo\Desktop\6. SEMESTAR\SIMS Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Lenovo\Desktop\6. SEMESTAR\SIMS Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\SQLitePCLRaw.core.dll
+C:\Users\Lenovo\Desktop\6. SEMESTAR\SIMS Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Lenovo\Desktop\6. SEMESTAR\SIMS Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Lenovo\Desktop\6. SEMESTAR\SIMS Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Lenovo\Desktop\6. SEMESTAR\SIMS Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Lenovo\Desktop\6. SEMESTAR\SIMS Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Lenovo\Desktop\6. SEMESTAR\SIMS Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Lenovo\Desktop\6. SEMESTAR\SIMS Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Lenovo\Desktop\6. SEMESTAR\SIMS Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Lenovo\Desktop\6. SEMESTAR\SIMS Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Lenovo\Desktop\6. SEMESTAR\SIMS Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Lenovo\Desktop\6. SEMESTAR\SIMS Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Lenovo\Desktop\6. SEMESTAR\SIMS Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Lenovo\Desktop\6. SEMESTAR\SIMS Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Lenovo\Desktop\6. SEMESTAR\SIMS Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Lenovo\Desktop\6. SEMESTAR\SIMS Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Lenovo\Desktop\6. SEMESTAR\SIMS Igor\InitialProject\InitialProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Lenovo\Desktop\6. SEMESTAR\SIMS Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\InitialProject.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\6. SEMESTAR\SIMS Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\View\AccomodationSpecialWindow.g.cs
+C:\Users\Lenovo\Desktop\6. SEMESTAR\SIMS Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\View\FindAvailableWindow.g.cs
+C:\Users\Lenovo\Desktop\6. SEMESTAR\SIMS Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\View\ForumWindow.g.cs
+C:\Users\Lenovo\Desktop\6. SEMESTAR\SIMS Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\View\GuestWindow.g.cs
+C:\Users\Lenovo\Desktop\6. SEMESTAR\SIMS Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\View\LoginWindow.g.cs
+C:\Users\Lenovo\Desktop\6. SEMESTAR\SIMS Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\View\PerformanceWindow.g.cs
+C:\Users\Lenovo\Desktop\6. SEMESTAR\SIMS Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\View\ReportWindow.g.cs
+C:\Users\Lenovo\Desktop\6. SEMESTAR\SIMS Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\View\ReservatingWindow.g.cs
+C:\Users\Lenovo\Desktop\6. SEMESTAR\SIMS Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\View\ShowAccomodationsWindow.g.cs
+C:\Users\Lenovo\Desktop\6. SEMESTAR\SIMS Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\View\TutorialWindow.g.cs
+C:\Users\Lenovo\Desktop\6. SEMESTAR\SIMS Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Lenovo\Desktop\6. SEMESTAR\SIMS Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\InitialProject_Content.g.cs
+C:\Users\Lenovo\Desktop\6. SEMESTAR\SIMS Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\InitialProject_MarkupCompile.cache
+C:\Users\Lenovo\Desktop\6. SEMESTAR\SIMS Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\InitialProject_MarkupCompile.lref
+C:\Users\Lenovo\Desktop\6. SEMESTAR\SIMS Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\View\AccomodationSpecialWindow.baml
+C:\Users\Lenovo\Desktop\6. SEMESTAR\SIMS Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\View\FindAvailableWindow.baml
+C:\Users\Lenovo\Desktop\6. SEMESTAR\SIMS Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\View\ForumWindow.baml
+C:\Users\Lenovo\Desktop\6. SEMESTAR\SIMS Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\View\GuestWindow.baml
+C:\Users\Lenovo\Desktop\6. SEMESTAR\SIMS Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\View\LoginWindow.baml
+C:\Users\Lenovo\Desktop\6. SEMESTAR\SIMS Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\View\PerformanceWindow.baml
+C:\Users\Lenovo\Desktop\6. SEMESTAR\SIMS Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\View\ReportWindow.baml
+C:\Users\Lenovo\Desktop\6. SEMESTAR\SIMS Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\View\ReservatingWindow.baml
+C:\Users\Lenovo\Desktop\6. SEMESTAR\SIMS Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\View\ShowAccomodationsWindow.baml
+C:\Users\Lenovo\Desktop\6. SEMESTAR\SIMS Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\View\TutorialWindow.baml
+C:\Users\Lenovo\Desktop\6. SEMESTAR\SIMS Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\InitialProject.g.resources
+C:\Users\Lenovo\Desktop\6. SEMESTAR\SIMS Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\InitialProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\6. SEMESTAR\SIMS Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\InitialProject.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\6. SEMESTAR\SIMS Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\InitialProject.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\6. SEMESTAR\SIMS Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\InitialProject.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\6. SEMESTAR\SIMS Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\InitialP.AE916814.Up2Date
+C:\Users\Lenovo\Desktop\6. SEMESTAR\SIMS Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\InitialProject.dll
+C:\Users\Lenovo\Desktop\6. SEMESTAR\SIMS Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\refint\InitialProject.dll
+C:\Users\Lenovo\Desktop\6. SEMESTAR\SIMS Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\InitialProject.pdb
+C:\Users\Lenovo\Desktop\6. SEMESTAR\SIMS Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\InitialProject.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\6. SEMESTAR\SIMS Igor\InitialProject\InitialProject\obj\Debug\net6.0-windows\ref\InitialProject.dll

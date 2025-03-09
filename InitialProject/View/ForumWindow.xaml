@@ -1,0 +1,152 @@
+﻿<Window x:Class="InitialProject.View.ForumWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:InitialProject.View"
+        mc:Ignorable="d"
+        
+        KeyDown="Window_KeyDown"
+        Background="Wheat"
+        
+        Title="ForumWindow" Height="720" Width="1090">
+    <Grid>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="212" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+
+            <Grid Background="BurlyWood">
+                <Border BorderThickness="0 0 2 0" BorderBrush="PeachPuff"></Border>
+
+                <!-- LEVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO -->
+
+                <Label Content="Accomodation&#xD;&#xA;       Agency!" HorizontalAlignment="Left" Margin="46,22,0,0" VerticalAlignment="Top" Height="57" Width="120" FontSize="15" FontWeight="Bold"/>
+
+                <Rectangle  HorizontalAlignment="Left" Height="63" Margin="34,109,0,0" Stroke="Black" VerticalAlignment="Top" Width="144"/>
+                <Rectangle  HorizontalAlignment="Left" Height="63" Margin="34,206,0,0" Stroke="Black" VerticalAlignment="Top" Width="144"/>
+                <Rectangle  HorizontalAlignment="Left" Height="63" Margin="34,302,0,0" Stroke="Black" VerticalAlignment="Top" Width="144"/>
+                <Rectangle  HorizontalAlignment="Left" Height="62" Margin="34,496,0,0" Stroke="Black" VerticalAlignment="Top" Width="144"/>
+                <Rectangle  HorizontalAlignment="Left" Height="63" Margin="34,401,0,0" Stroke="Black" VerticalAlignment="Top" Width="144"/>
+                <Rectangle  HorizontalAlignment="Center" Height="63" Margin="0,589,0,0" Stroke="Black" VerticalAlignment="Top" Width="144"/>
+
+
+                <Button Content="Home" Command="{Binding HomeCommand}" HorizontalAlignment="Left" Margin="88,123,0,0" VerticalAlignment="Top" Width="78" Height="35"/>
+                <Button Content="Showing" Command="{Binding ShowAccomodationCommand}" HorizontalAlignment="Left" Margin="88,220,0,0" VerticalAlignment="Top" Width="78" Height="34"/>
+                <Button Content="Reserving" Command="{Binding ReservatingCommand}" HorizontalAlignment="Left" Margin="88,316,0,0" VerticalAlignment="Top" Width="78" Height="35"/>
+                <Button Content="Performance" Command="{Binding PerformanceCommand}" HorizontalAlignment="Left" Margin="88,416,0,0" VerticalAlignment="Top" Width="78" Height="34"/>
+                <Button Content="Accom Special" Command="{Binding AccomodationSpecialCommand}" HorizontalAlignment="Left" Margin="88,510,0,0" VerticalAlignment="Top" Width="78" Height="34"/>
+                <Button Content="Forum" Command="{Binding ForumCommand}" HorizontalAlignment="Left" Margin="88,604,0,0" VerticalAlignment="Top" Width="78" Height="34"/>
+
+                <Label Content="H -&gt;" FontWeight="Bold"  HorizontalAlignment="Left" Margin="45,128,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.32,0.556"/>
+                <Label Content="S -&gt;" FontWeight="Bold"  HorizontalAlignment="Left" Margin="45,225,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.32,0.556"/>
+                <Label Content="R -&gt;" FontWeight="Bold"  HorizontalAlignment="Left" Margin="45,321,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.32,0.556"/>
+                <Label Content="P -&gt;" FontWeight="Bold"  HorizontalAlignment="Left" Margin="45,420,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.32,0.556"/>
+                <Label Content="A -&gt;" FontWeight="Bold"  HorizontalAlignment="Left" Margin="45,514,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.32,0.556"/>
+                <Label Content="F ->" FontWeight="Bold"  HorizontalAlignment="Left" Margin="45,608,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.32,0.556"/>
+                <Label Content="S -&gt;" FontWeight="Bold"  HorizontalAlignment="Left" Margin="45,225,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.32,0.556"/>
+
+
+
+            </Grid>
+
+            <Grid Grid.Column="1">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="76" />
+                        <RowDefinition Height="*" />
+                    </Grid.RowDefinitions>
+
+                    <Grid Grid.Row="0" Background="BurlyWood">
+                        <Border BorderThickness="0 0 0 2" BorderBrush="PeachPuff" VerticalAlignment="Stretch" >
+
+                            <!-- NASLOVVVVVVVVVVvv-->
+                        </Border>
+                    </Grid>
+
+                    <Grid Grid.Row="1">
+                        <!-- GLAVNOOOOOOOOOOOOOOOOOOOOOOOOOo -->
+                        <Label Content="Video (example) tutorial ->" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="15"/>
+                        <Label Content="press T" FontWeight="Bold" HorizontalAlignment="Left" Margin="31,25,0,0" VerticalAlignment="Top" FontSize="15"/>
+                        <Button Content="Tutorial" Command="{Binding TutorialCommand}" HorizontalAlignment="Left" Margin="110,31,0,0" VerticalAlignment="Top" Width="51" Height="20"/>
+                        <Label Content="You can see forums, add&#xD;&#xA;comments, close or &#xD;&#xA;open new one!" Margin="682,0,10,539" FontSize="15"/>
+
+
+
+                        <Button Content="Open Forum" Command="{Binding OpenForumCommand}" HorizontalAlignment="Left" Margin="628,329,0,0" VerticalAlignment="Top" Width="150" Height="42"/>
+                        <Button Content="Close Forum" Command="{Binding CloseForumCommand}" HorizontalAlignment="Left" Margin="341,526,0,0" VerticalAlignment="Top" Width="150" Height="42"/>
+                        <Button Content="Add comment to forum" Command="{Binding AddCommentCommand}" HorizontalAlignment="Left" Margin="31,526,0,0" VerticalAlignment="Top" Width="148" Height="42"/>
+                        <Label Content="X -> close" FontWeight="Bold" HorizontalAlignment="Left" Margin="995,0,0,0" VerticalAlignment="Top"/>
+
+                        <ListView Background="AntiqueWhite" ItemsSource="{Binding AllForums}" SelectedItem="{Binding SelectedForum}" Margin="31,104,370,257" d:ItemsSource="{d:SampleData ItemCount=5}">
+
+                            <ListView.ItemContainerStyle>
+                                <Style TargetType="ListViewItem">
+                                    <Setter Property="Background" Value="NavajoWhite"/>
+                                </Style>
+                            </ListView.ItemContainerStyle>
+
+                            <ListView.View>
+                                <GridView>
+                                    <GridViewColumn Header="Name" DisplayMemberBinding="{Binding Name}" />
+                                    <GridViewColumn Header="Location">
+                                        <GridViewColumn.CellTemplate>
+                                            <DataTemplate>
+                                                <TextBlock>
+                            <Run Text="{Binding Location.City}" />
+                            <Run Text=", " />
+                            <Run Text="{Binding Location.Country}" />
+                                                </TextBlock>
+                                            </DataTemplate>
+                                        </GridViewColumn.CellTemplate>
+                                    </GridViewColumn>
+                                    <GridViewColumn Header="Is Open?" DisplayMemberBinding="{Binding IsOpen}" />
+                                    <GridViewColumn Header="First Comment" DisplayMemberBinding="{Binding FirstComment}"></GridViewColumn>
+                                </GridView>
+                            </ListView.View>
+                        </ListView>
+
+                        <TextBox HorizontalAlignment="Left" Text="{Binding Name,Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}"  Margin="568,278,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+                        <TextBox HorizontalAlignment="Left" Text="{Binding FirstComment,Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}" Margin="731,278,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+                        <Label Content="Name?" HorizontalAlignment="Left" Margin="604,247,0,0" VerticalAlignment="Top"/>
+                        <Label Content="First comment?" HorizontalAlignment="Left" Margin="745,247,0,0" VerticalAlignment="Top"/>
+                        <TextBox HorizontalAlignment="Left" Margin="41,467,0,0" TextWrapping="Wrap" Text="{Binding CommentText,Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}" VerticalAlignment="Top" Width="128" RenderTransformOrigin="0.694,0.754" Height="39"/>
+                        <Label Content="Comment?" HorizontalAlignment="Left" Margin="71,433,0,0" VerticalAlignment="Top"/>
+
+                        <ListView Background="AntiqueWhite" ItemsSource="{Binding AllLocations}" SelectedItem="{Binding SelectedLocation}" Margin="613,104,76,393" d:ItemsSource="{d:SampleData ItemCount=5}">
+
+                            <ListView.ItemContainerStyle>
+                                <Style TargetType="{x:Type ListViewItem}">
+                                    <Setter Property="Background" Value="NavajoWhite"/>
+                                </Style>
+                            </ListView.ItemContainerStyle>
+
+                            <ListView.View>
+                                <GridView>
+                                    <GridViewColumn Header="City" DisplayMemberBinding="{Binding City}" />
+                                    <GridViewColumn Header="Country" DisplayMemberBinding="{Binding Country}" />
+                                </GridView>
+                            </ListView.View>
+                        </ListView>
+                        <Label Content="," FontWeight="Bold"  HorizontalAlignment="Left" Margin="92,579,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.32,0.556"/>
+                        <Label Content="." FontWeight="Bold"  HorizontalAlignment="Left" Margin="403,579,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.32,0.556"/>
+                        <Label Content="/" FontWeight="Bold"  HorizontalAlignment="Left" Margin="700,376,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.32,0.556"/>
+
+
+                    </Grid>
+
+
+
+                    <Grid Grid.Column="1">
+                        <!-- Sadržaj gornjeg desnog dela -->
+                        <Label Content="Forum Window!" HorizontalAlignment="Center" VerticalAlignment="Center" Height="56" Width="198" FontSize="25" FontWeight="Bold"/>
+                        <Label Content="X -> Close" FontWeight="Bold" Margin="787,0,10,38"/>
+                    </Grid>
+                </Grid>
+            </Grid>
+        </Grid>
+
+
+    </Grid>
+</Window>

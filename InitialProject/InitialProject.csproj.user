@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="View\AccomodationSpecialWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\FindAvailableWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\ForumWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\GuestWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\LoginWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\PerformanceWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\ReportWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\ReservatingWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\ShowAccomodationsWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\TutorialWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="View\AccomodationSpecialWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\FindAvailableWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\ForumWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\GuestWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\LoginWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\PerformanceWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\ReportWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\ReservatingWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\ShowAccomodationsWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\TutorialWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

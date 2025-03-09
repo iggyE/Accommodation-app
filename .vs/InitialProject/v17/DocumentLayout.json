@@ -1,0 +1,1221 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|c:\\users\\lenovo\\desktop\\6. semestar\\sims igor\\initialproject\\initialproject\\repository\\forumrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|solutionrelative:initialproject\\repository\\forumrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|c:\\users\\lenovo\\desktop\\6. semestar\\sims igor\\initialproject\\initialproject\\service\\accomodationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|solutionrelative:initialproject\\service\\accomodationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|c:\\users\\lenovo\\desktop\\6. semestar\\sims igor\\initialproject\\initialproject\\viewmodel\\reservatingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|solutionrelative:initialproject\\viewmodel\\reservatingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|c:\\users\\lenovo\\desktop\\6. semestar\\sims igor\\initialproject\\initialproject\\view\\forumwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|solutionrelative:initialproject\\view\\forumwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|c:\\users\\lenovo\\desktop\\6. semestar\\sims igor\\initialproject\\initialproject\\view\\reportwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|solutionrelative:initialproject\\view\\reportwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|c:\\users\\lenovo\\desktop\\6. semestar\\sims igor\\initialproject\\initialproject\\view\\reportwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|solutionrelative:initialproject\\view\\reportwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|c:\\users\\lenovo\\desktop\\6. semestar\\sims igor\\initialproject\\initialproject\\view\\accomodationspecialwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|solutionrelative:initialproject\\view\\accomodationspecialwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|c:\\users\\lenovo\\desktop\\6. semestar\\sims igor\\initialproject\\initialproject\\viewmodel\\findavailableviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|solutionrelative:initialproject\\viewmodel\\findavailableviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|c:\\users\\lenovo\\desktop\\6. semestar\\sims igor\\initialproject\\initialproject\\repository\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|solutionrelative:initialproject\\repository\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|c:\\users\\lenovo\\desktop\\6. semestar\\sims igor\\initialproject\\initialproject\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|solutionrelative:initialproject\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|c:\\users\\lenovo\\desktop\\6. semestar\\sims igor\\initialproject\\initialproject\\viewmodel\\guestviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|solutionrelative:initialproject\\viewmodel\\guestviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|c:\\users\\lenovo\\desktop\\6. semestar\\sims igor\\initialproject\\initialproject\\viewmodel\\forumviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|solutionrelative:initialproject\\viewmodel\\forumviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|c:\\users\\lenovo\\desktop\\6. semestar\\sims igor\\initialproject\\initialproject\\dto\\forumdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|solutionrelative:initialproject\\dto\\forumdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|c:\\users\\lenovo\\desktop\\6. semestar\\sims igor\\initialproject\\initialproject\\viewmodel\\performanceviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|solutionrelative:initialproject\\viewmodel\\performanceviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|c:\\users\\lenovo\\desktop\\6. semestar\\sims igor\\initialproject\\initialproject\\repository\\accomodationreservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|solutionrelative:initialproject\\repository\\accomodationreservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|c:\\users\\lenovo\\desktop\\6. semestar\\sims igor\\initialproject\\initialproject\\repository\\accomodationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|solutionrelative:initialproject\\repository\\accomodationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|c:\\users\\lenovo\\desktop\\6. semestar\\sims igor\\initialproject\\initialproject\\repository\\accomodationratingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|solutionrelative:initialproject\\repository\\accomodationratingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|c:\\users\\lenovo\\desktop\\6. semestar\\sims igor\\initialproject\\initialproject\\model\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|solutionrelative:initialproject\\model\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|c:\\users\\lenovo\\desktop\\6. semestar\\sims igor\\initialproject\\initialproject\\model\\forum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|solutionrelative:initialproject\\model\\forum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|c:\\users\\lenovo\\desktop\\6. semestar\\sims igor\\initialproject\\initialproject\\model\\accomodationreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|solutionrelative:initialproject\\model\\accomodationreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|c:\\users\\lenovo\\desktop\\6. semestar\\sims igor\\initialproject\\initialproject\\view\\forumwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|solutionrelative:initialproject\\view\\forumwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|c:\\users\\lenovo\\desktop\\6. semestar\\sims igor\\initialproject\\initialproject\\model\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|solutionrelative:initialproject\\model\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|c:\\users\\lenovo\\desktop\\6. semestar\\sims igor\\initialproject\\initialproject\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|solutionrelative:initialproject\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|c:\\users\\lenovo\\desktop\\6. semestar\\sims igor\\initialproject\\initialproject\\model\\guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|solutionrelative:initialproject\\model\\guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|c:\\users\\lenovo\\desktop\\6. semestar\\sims igor\\initialproject\\initialproject\\model\\accomodation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|solutionrelative:initialproject\\model\\accomodation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|c:\\users\\lenovo\\desktop\\6. semestar\\sims igor\\initialproject\\initialproject\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|solutionrelative:initialproject\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\Desktop\\SIMS Igor\\InitialProject\\InitialProject\\Migrations\\20230609001957_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|c:\\users\\lenovo\\desktop\\6. semestar\\sims igor\\initialproject\\initialproject\\view\\tutorialwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|solutionrelative:initialproject\\view\\tutorialwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|c:\\users\\lenovo\\desktop\\6. semestar\\sims igor\\initialproject\\initialproject\\view\\tutorialwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|solutionrelative:initialproject\\view\\tutorialwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|c:\\users\\lenovo\\desktop\\6. semestar\\sims igor\\initialproject\\initialproject\\view\\performancewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|solutionrelative:initialproject\\view\\performancewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|c:\\users\\lenovo\\desktop\\6. semestar\\sims igor\\initialproject\\initialproject\\viewmodel\\accomodationspecialviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|solutionrelative:initialproject\\viewmodel\\accomodationspecialviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|c:\\users\\lenovo\\desktop\\6. semestar\\sims igor\\initialproject\\initialproject\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|solutionrelative:initialproject\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|c:\\users\\lenovo\\desktop\\6. semestar\\sims igor\\initialproject\\initialproject\\repository\\accomodationreviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|solutionrelative:initialproject\\repository\\accomodationreviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|c:\\users\\lenovo\\desktop\\6. semestar\\sims igor\\initialproject\\initialproject\\view\\performancewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|solutionrelative:initialproject\\view\\performancewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|c:\\users\\lenovo\\desktop\\6. semestar\\sims igor\\initialproject\\initialproject\\view\\guestwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|solutionrelative:initialproject\\view\\guestwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|c:\\users\\lenovo\\desktop\\6. semestar\\sims igor\\initialproject\\initialproject\\view\\showaccomodationswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|solutionrelative:initialproject\\view\\showaccomodationswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|c:\\users\\lenovo\\desktop\\6. semestar\\sims igor\\initialproject\\initialproject\\view\\accomodationspecialwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|solutionrelative:initialproject\\view\\accomodationspecialwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|c:\\users\\lenovo\\desktop\\6. semestar\\sims igor\\initialproject\\initialproject\\view\\guestwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|solutionrelative:initialproject\\view\\guestwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|c:\\users\\lenovo\\desktop\\6. semestar\\sims igor\\initialproject\\initialproject\\viewmodel\\tutorialviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|solutionrelative:initialproject\\viewmodel\\tutorialviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|c:\\users\\lenovo\\desktop\\6. semestar\\sims igor\\initialproject\\initialproject\\view\\reservatingwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|solutionrelative:initialproject\\view\\reservatingwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|c:\\users\\lenovo\\desktop\\6. semestar\\sims igor\\initialproject\\initialproject\\view\\reservatingwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|solutionrelative:initialproject\\view\\reservatingwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|c:\\users\\lenovo\\desktop\\6. semestar\\sims igor\\initialproject\\initialproject\\view\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|solutionrelative:initialproject\\view\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|c:\\users\\lenovo\\desktop\\6. semestar\\sims igor\\initialproject\\initialproject\\model\\accomodationimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|solutionrelative:initialproject\\model\\accomodationimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|c:\\users\\lenovo\\desktop\\6. semestar\\sims igor\\initialproject\\initialproject\\model\\accomodationrating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|solutionrelative:initialproject\\model\\accomodationrating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|c:\\users\\lenovo\\desktop\\6. semestar\\sims igor\\initialproject\\initialproject\\viewmodel\\showaccomodationsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|solutionrelative:initialproject\\viewmodel\\showaccomodationsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|c:\\users\\lenovo\\desktop\\6. semestar\\sims igor\\initialproject\\initialproject\\view\\findavailablewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|solutionrelative:initialproject\\view\\findavailablewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|c:\\users\\lenovo\\desktop\\6. semestar\\sims igor\\initialproject\\initialproject\\view\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|solutionrelative:initialproject\\view\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|c:\\users\\lenovo\\desktop\\6. semestar\\sims igor\\initialproject\\initialproject\\controller\\accomodationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|solutionrelative:initialproject\\controller\\accomodationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|c:\\users\\lenovo\\desktop\\6. semestar\\sims igor\\initialproject\\initialproject\\commands\\delegatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|solutionrelative:initialproject\\commands\\delegatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|c:\\users\\lenovo\\desktop\\6. semestar\\sims igor\\initialproject\\initialproject\\model\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|solutionrelative:initialproject\\model\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|c:\\users\\lenovo\\desktop\\6. semestar\\sims igor\\initialproject\\initialproject\\dto\\accomodationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|solutionrelative:initialproject\\dto\\accomodationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|c:\\users\\lenovo\\desktop\\6. semestar\\sims igor\\initialproject\\initialproject\\repository\\guestratingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|solutionrelative:initialproject\\repository\\guestratingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|c:\\users\\lenovo\\desktop\\6. semestar\\sims igor\\initialproject\\initialproject\\dto\\yourratingsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|solutionrelative:initialproject\\dto\\yourratingsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|c:\\users\\lenovo\\desktop\\6. semestar\\sims igor\\initialproject\\initialproject\\dto\\accomodationreservationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|solutionrelative:initialproject\\dto\\accomodationreservationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|c:\\users\\lenovo\\desktop\\6. semestar\\sims igor\\initialproject\\initialproject\\repository\\guestsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|solutionrelative:initialproject\\repository\\guestsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|c:\\users\\lenovo\\desktop\\6. semestar\\sims igor\\initialproject\\initialproject\\view\\showaccomodationswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|solutionrelative:initialproject\\view\\showaccomodationswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|c:\\users\\lenovo\\desktop\\6. semestar\\sims igor\\initialproject\\initialproject\\model\\guestrating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|solutionrelative:initialproject\\model\\guestrating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|c:\\users\\lenovo\\desktop\\6. semestar\\sims igor\\initialproject\\initialproject\\view\\findavailablewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|solutionrelative:initialproject\\view\\findavailablewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|c:\\users\\lenovo\\desktop\\6. semestar\\sims igor\\initialproject\\initialproject\\dto\\locationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|solutionrelative:initialproject\\dto\\locationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|c:\\users\\lenovo\\desktop\\6. semestar\\sims igor\\initialproject\\initialproject\\service\\locationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|solutionrelative:initialproject\\service\\locationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|c:\\users\\lenovo\\desktop\\6. semestar\\sims igor\\initialproject\\initialproject\\repository\\locationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|solutionrelative:initialproject\\repository\\locationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|c:\\users\\lenovo\\desktop\\6. semestar\\sims igor\\initialproject\\initialproject\\model\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|solutionrelative:initialproject\\model\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\Desktop\\SIMS Igor\\InitialProject\\InitialProject\\Migrations\\20230606174554_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\Desktop\\SIMS Igor\\InitialProject\\InitialProject\\Migrations\\20230602231908_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\Desktop\\SIMS KT2 Igor\\InitialProject\\InitialProject\\Migrations\\20230526020039_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\Desktop\\SIMS KT2 Igor\\InitialProject\\InitialProject\\Migrations\\20230526012600_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\Desktop\\SIMS KT2 Igor\\InitialProject\\InitialProject\\Migrations\\20230526011317_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\Desktop\\SIMS KT2 Igor\\InitialProject\\InitialProject\\Migrations\\20230526005753_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|c:\\users\\lenovo\\desktop\\6. semestar\\sims igor\\initialproject\\initialproject\\model\\accomodationreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|solutionrelative:initialproject\\model\\accomodationreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|c:\\users\\lenovo\\desktop\\6. semestar\\sims igor\\initialproject\\initialproject\\repository\\accomodationimagesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|solutionrelative:initialproject\\repository\\accomodationimagesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|c:\\users\\lenovo\\desktop\\6. semestar\\sims igor\\initialproject\\initialproject\\model\\tourist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|solutionrelative:initialproject\\model\\tourist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|c:\\users\\lenovo\\desktop\\6. semestar\\sims igor\\initialproject\\initialproject\\model\\tourimages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|solutionrelative:initialproject\\model\\tourimages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|c:\\users\\lenovo\\desktop\\6. semestar\\sims igor\\initialproject\\initialproject\\model\\guide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|solutionrelative:initialproject\\model\\guide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|c:\\users\\lenovo\\desktop\\6. semestar\\sims igor\\initialproject\\initialproject\\model\\owner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|solutionrelative:initialproject\\model\\owner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|c:\\users\\lenovo\\desktop\\6. semestar\\sims igor\\initialproject\\initialproject\\model\\checkpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|solutionrelative:initialproject\\model\\checkpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|c:\\users\\lenovo\\desktop\\6. semestar\\sims igor\\initialproject\\initialproject\\migrations\\20230609025613_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45568B1-C150-42BF-A8CD-6E78F80548AB}|InitialProject\\InitialProject.csproj|solutionrelative:initialproject\\migrations\\20230609025613_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReservatingViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\ViewModel\\ReservatingViewModel.cs",
+              "RelativeDocumentMoniker": "InitialProject\\ViewModel\\ReservatingViewModel.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\ViewModel\\ReservatingViewModel.cs",
+              "RelativeToolTip": "InitialProject\\ViewModel\\ReservatingViewModel.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAADwv1QAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T16:47:59.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccomodationService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\Service\\AccomodationService.cs",
+              "RelativeDocumentMoniker": "InitialProject\\Service\\AccomodationService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\Service\\AccomodationService.cs",
+              "RelativeToolTip": "InitialProject\\Service\\AccomodationService.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAgwDcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T16:47:59.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ForumRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\Repository\\ForumRepository.cs",
+              "RelativeDocumentMoniker": "InitialProject\\Repository\\ForumRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\Repository\\ForumRepository.cs",
+              "RelativeToolTip": "InitialProject\\Repository\\ForumRepository.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAgwE8AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T16:47:58.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "InitialProject\\Repository\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "InitialProject\\Repository\\UserRepository.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAAArwHgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T16:47:58.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ForumWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\View\\ForumWindow.xaml",
+              "RelativeDocumentMoniker": "InitialProject\\View\\ForumWindow.xaml",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\View\\ForumWindow.xaml",
+              "RelativeToolTip": "InitialProject\\View\\ForumWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-09T16:47:58.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FindAvailableViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\ViewModel\\FindAvailableViewModel.cs",
+              "RelativeDocumentMoniker": "InitialProject\\ViewModel\\FindAvailableViewModel.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\ViewModel\\FindAvailableViewModel.cs",
+              "RelativeToolTip": "InitialProject\\ViewModel\\FindAvailableViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T16:47:58.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PerformanceViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\ViewModel\\PerformanceViewModel.cs",
+              "RelativeDocumentMoniker": "InitialProject\\ViewModel\\PerformanceViewModel.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\ViewModel\\PerformanceViewModel.cs",
+              "RelativeToolTip": "InitialProject\\ViewModel\\PerformanceViewModel.cs",
+              "ViewState": "AQIAAJwAAAAAAAAAAAAAALoAAAB3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T16:47:59.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AccomodationSpecialWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\View\\AccomodationSpecialWindow.xaml",
+              "RelativeDocumentMoniker": "InitialProject\\View\\AccomodationSpecialWindow.xaml",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\View\\AccomodationSpecialWindow.xaml",
+              "RelativeToolTip": "InitialProject\\View\\AccomodationSpecialWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-09T16:47:59.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReportWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\View\\ReportWindow.xaml.cs",
+              "RelativeDocumentMoniker": "InitialProject\\View\\ReportWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\View\\ReportWindow.xaml.cs",
+              "RelativeToolTip": "InitialProject\\View\\ReportWindow.xaml.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAB8AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T16:47:59.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReportWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\View\\ReportWindow.xaml",
+              "RelativeDocumentMoniker": "InitialProject\\View\\ReportWindow.xaml",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\View\\ReportWindow.xaml",
+              "RelativeToolTip": "InitialProject\\View\\ReportWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-09T16:47:59.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AccomodationReservationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\Repository\\AccomodationReservationRepository.cs",
+              "RelativeDocumentMoniker": "InitialProject\\Repository\\AccomodationReservationRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\Repository\\AccomodationReservationRepository.cs",
+              "RelativeToolTip": "InitialProject\\Repository\\AccomodationReservationRepository.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwDAAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T16:47:59.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AccomodationRatingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\Repository\\AccomodationRatingRepository.cs",
+              "RelativeDocumentMoniker": "InitialProject\\Repository\\AccomodationRatingRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\Repository\\AccomodationRatingRepository.cs",
+              "RelativeToolTip": "InitialProject\\Repository\\AccomodationRatingRepository.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAMwDIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T16:47:59.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Enums.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\Model\\Enums.cs",
+              "RelativeDocumentMoniker": "InitialProject\\Model\\Enums.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\Model\\Enums.cs",
+              "RelativeToolTip": "InitialProject\\Model\\Enums.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T16:47:59.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ForumWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\View\\ForumWindow.xaml.cs",
+              "RelativeDocumentMoniker": "InitialProject\\View\\ForumWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\View\\ForumWindow.xaml.cs",
+              "RelativeToolTip": "InitialProject\\View\\ForumWindow.xaml.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAlwDsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T16:47:59.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GuestViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\ViewModel\\GuestViewModel.cs",
+              "RelativeDocumentMoniker": "InitialProject\\ViewModel\\GuestViewModel.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\ViewModel\\GuestViewModel.cs",
+              "RelativeToolTip": "InitialProject\\ViewModel\\GuestViewModel.cs",
+              "ViewState": "AQIAAJQAAAAAAAAAAAAAAIIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T16:47:59.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CommentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\Repository\\CommentRepository.cs",
+              "RelativeDocumentMoniker": "InitialProject\\Repository\\CommentRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\Repository\\CommentRepository.cs",
+              "RelativeToolTip": "InitialProject\\Repository\\CommentRepository.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T16:47:59.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AccomodationSpecialViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\ViewModel\\AccomodationSpecialViewModel.cs",
+              "RelativeDocumentMoniker": "InitialProject\\ViewModel\\AccomodationSpecialViewModel.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\ViewModel\\AccomodationSpecialViewModel.cs",
+              "RelativeToolTip": "InitialProject\\ViewModel\\AccomodationSpecialViewModel.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAADgvzwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T16:47:59.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "PerformanceWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\View\\PerformanceWindow.xaml",
+              "RelativeDocumentMoniker": "InitialProject\\View\\PerformanceWindow.xaml",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\View\\PerformanceWindow.xaml",
+              "RelativeToolTip": "InitialProject\\View\\PerformanceWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-09T16:47:59.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "TutorialWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\View\\TutorialWindow.xaml",
+              "RelativeDocumentMoniker": "InitialProject\\View\\TutorialWindow.xaml",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\View\\TutorialWindow.xaml",
+              "RelativeToolTip": "InitialProject\\View\\TutorialWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-09T16:47:59.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "TutorialWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\View\\TutorialWindow.xaml.cs",
+              "RelativeDocumentMoniker": "InitialProject\\View\\TutorialWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\View\\TutorialWindow.xaml.cs",
+              "RelativeToolTip": "InitialProject\\View\\TutorialWindow.xaml.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAawDMAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T16:47:59.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ShowAccomodationsWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\View\\ShowAccomodationsWindow.xaml",
+              "RelativeDocumentMoniker": "InitialProject\\View\\ShowAccomodationsWindow.xaml",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\View\\ShowAccomodationsWindow.xaml",
+              "RelativeToolTip": "InitialProject\\View\\ShowAccomodationsWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-09T16:47:59.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AccomodationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\Repository\\AccomodationRepository.cs",
+              "RelativeDocumentMoniker": "InitialProject\\Repository\\AccomodationRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\Repository\\AccomodationRepository.cs",
+              "RelativeToolTip": "InitialProject\\Repository\\AccomodationRepository.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAgwDkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T16:47:59.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ForumDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\DTO\\ForumDTO.cs",
+              "RelativeDocumentMoniker": "InitialProject\\DTO\\ForumDTO.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\DTO\\ForumDTO.cs",
+              "RelativeToolTip": "InitialProject\\DTO\\ForumDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T16:47:59.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20230609001957_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\SIMS Igor\\InitialProject\\InitialProject\\Migrations\\20230609001957_Initial.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\SIMS Igor\\InitialProject\\InitialProject\\Migrations\\20230609001957_Initial.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\SIMS Igor\\InitialProject\\InitialProject\\Migrations\\20230609001957_Initial.cs",
+              "RelativeToolTip": "..\\..\\..\\SIMS Igor\\InitialProject\\InitialProject\\Migrations\\20230609001957_Initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-06-09T00:19:57.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "PerformanceWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\View\\PerformanceWindow.xaml.cs",
+              "RelativeDocumentMoniker": "InitialProject\\View\\PerformanceWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\View\\PerformanceWindow.xaml.cs",
+              "RelativeToolTip": "InitialProject\\View\\PerformanceWindow.xaml.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAACAAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T16:47:59.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AccomodationReviewRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\Repository\\AccomodationReviewRepository.cs",
+              "RelativeDocumentMoniker": "InitialProject\\Repository\\AccomodationReviewRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\Repository\\AccomodationReviewRepository.cs",
+              "RelativeToolTip": "InitialProject\\Repository\\AccomodationReviewRepository.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAADgvxsAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T16:47:59.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\App.xaml",
+              "RelativeDocumentMoniker": "InitialProject\\App.xaml",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\App.xaml",
+              "RelativeToolTip": "InitialProject\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-09T16:47:59.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ForumViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\ViewModel\\ForumViewModel.cs",
+              "RelativeDocumentMoniker": "InitialProject\\ViewModel\\ForumViewModel.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\ViewModel\\ForumViewModel.cs",
+              "RelativeToolTip": "InitialProject\\ViewModel\\ForumViewModel.cs",
+              "ViewState": "AQIAAH4AAAAAAAAAAAAkwJQAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T16:47:59.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Forum.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\Model\\Forum.cs",
+              "RelativeDocumentMoniker": "InitialProject\\Model\\Forum.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\Model\\Forum.cs",
+              "RelativeToolTip": "InitialProject\\Model\\Forum.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAzwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T16:47:59.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AccomodationReservation.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\Model\\AccomodationReservation.cs",
+              "RelativeDocumentMoniker": "InitialProject\\Model\\AccomodationReservation.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\Model\\AccomodationReservation.cs",
+              "RelativeToolTip": "InitialProject\\Model\\AccomodationReservation.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAuwBEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T16:47:59.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "20230609025613_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\Migrations\\20230609025613_Initial.cs",
+              "RelativeDocumentMoniker": "InitialProject\\Migrations\\20230609025613_Initial.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\Migrations\\20230609025613_Initial.cs",
+              "RelativeToolTip": "InitialProject\\Migrations\\20230609025613_Initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T16:47:59.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\Model\\Comment.cs",
+              "RelativeDocumentMoniker": "InitialProject\\Model\\Comment.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\Model\\Comment.cs",
+              "RelativeToolTip": "InitialProject\\Model\\Comment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T16:47:59.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\Model\\User.cs",
+              "RelativeDocumentMoniker": "InitialProject\\Model\\User.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\Model\\User.cs",
+              "RelativeToolTip": "InitialProject\\Model\\User.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T16:47:59.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Guest.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\Model\\Guest.cs",
+              "RelativeDocumentMoniker": "InitialProject\\Model\\Guest.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\Model\\Guest.cs",
+              "RelativeToolTip": "InitialProject\\Model\\Guest.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T16:47:59.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Accomodation.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\Model\\Accomodation.cs",
+              "RelativeDocumentMoniker": "InitialProject\\Model\\Accomodation.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\Model\\Accomodation.cs",
+              "RelativeToolTip": "InitialProject\\Model\\Accomodation.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwBsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T16:47:59.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\Service\\UserService.cs",
+              "RelativeDocumentMoniker": "InitialProject\\Service\\UserService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\Service\\UserService.cs",
+              "RelativeToolTip": "InitialProject\\Service\\UserService.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T16:47:59.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "GuestWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\View\\GuestWindow.xaml",
+              "RelativeDocumentMoniker": "InitialProject\\View\\GuestWindow.xaml",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\View\\GuestWindow.xaml",
+              "RelativeToolTip": "InitialProject\\View\\GuestWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-09T16:47:59.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AccomodationSpecialWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\View\\AccomodationSpecialWindow.xaml.cs",
+              "RelativeDocumentMoniker": "InitialProject\\View\\AccomodationSpecialWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\View\\AccomodationSpecialWindow.xaml.cs",
+              "RelativeToolTip": "InitialProject\\View\\AccomodationSpecialWindow.xaml.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAUwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T16:47:59.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "TutorialViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\ViewModel\\TutorialViewModel.cs",
+              "RelativeDocumentMoniker": "InitialProject\\ViewModel\\TutorialViewModel.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\ViewModel\\TutorialViewModel.cs",
+              "RelativeToolTip": "InitialProject\\ViewModel\\TutorialViewModel.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T16:47:59.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ReservatingWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\View\\ReservatingWindow.xaml",
+              "RelativeDocumentMoniker": "InitialProject\\View\\ReservatingWindow.xaml",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\View\\ReservatingWindow.xaml",
+              "RelativeToolTip": "InitialProject\\View\\ReservatingWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-09T16:47:59.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "AccomodationRating.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\Model\\AccomodationRating.cs",
+              "RelativeDocumentMoniker": "InitialProject\\Model\\AccomodationRating.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\Model\\AccomodationRating.cs",
+              "RelativeToolTip": "InitialProject\\Model\\AccomodationRating.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAlwCQAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T16:47:59.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "GuestWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\View\\GuestWindow.xaml.cs",
+              "RelativeDocumentMoniker": "InitialProject\\View\\GuestWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\View\\GuestWindow.xaml.cs",
+              "RelativeToolTip": "InitialProject\\View\\GuestWindow.xaml.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAWwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T16:47:59.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\View\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "InitialProject\\View\\LoginWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\View\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "InitialProject\\View\\LoginWindow.xaml.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAWwC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T16:47:59.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ShowAccomodationsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\ViewModel\\ShowAccomodationsViewModel.cs",
+              "RelativeDocumentMoniker": "InitialProject\\ViewModel\\ShowAccomodationsViewModel.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\ViewModel\\ShowAccomodationsViewModel.cs",
+              "RelativeToolTip": "InitialProject\\ViewModel\\ShowAccomodationsViewModel.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T16:47:59.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "AccomodationImage.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\Model\\AccomodationImage.cs",
+              "RelativeDocumentMoniker": "InitialProject\\Model\\AccomodationImage.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\Model\\AccomodationImage.cs",
+              "RelativeToolTip": "InitialProject\\Model\\AccomodationImage.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T16:47:59.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ReservatingWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\View\\ReservatingWindow.xaml.cs",
+              "RelativeDocumentMoniker": "InitialProject\\View\\ReservatingWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\View\\ReservatingWindow.xaml.cs",
+              "RelativeToolTip": "InitialProject\\View\\ReservatingWindow.xaml.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAB4AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T16:47:59.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\View\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "InitialProject\\View\\LoginWindow.xaml",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\View\\LoginWindow.xaml",
+              "RelativeToolTip": "InitialProject\\View\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-09T16:47:59.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "FindAvailableWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\View\\FindAvailableWindow.xaml",
+              "RelativeDocumentMoniker": "InitialProject\\View\\FindAvailableWindow.xaml",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\View\\FindAvailableWindow.xaml",
+              "RelativeToolTip": "InitialProject\\View\\FindAvailableWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-09T16:47:59.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "DelegateCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\Commands\\DelegateCommand.cs",
+              "RelativeDocumentMoniker": "InitialProject\\Commands\\DelegateCommand.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\Commands\\DelegateCommand.cs",
+              "RelativeToolTip": "InitialProject\\Commands\\DelegateCommand.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAnwCsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T16:47:59.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\Model\\DataContext.cs",
+              "RelativeDocumentMoniker": "InitialProject\\Model\\DataContext.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\Model\\DataContext.cs",
+              "RelativeToolTip": "InitialProject\\Model\\DataContext.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAnwE8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T16:47:59.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "AccomodationController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\Controller\\AccomodationController.cs",
+              "RelativeDocumentMoniker": "InitialProject\\Controller\\AccomodationController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\Controller\\AccomodationController.cs",
+              "RelativeToolTip": "InitialProject\\Controller\\AccomodationController.cs",
+              "ViewState": "AQIAAJMAAAAAAAAAAAAnwKEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T16:47:59.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "GuestRatingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\Repository\\GuestRatingRepository.cs",
+              "RelativeDocumentMoniker": "InitialProject\\Repository\\GuestRatingRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\Repository\\GuestRatingRepository.cs",
+              "RelativeToolTip": "InitialProject\\Repository\\GuestRatingRepository.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAABYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T16:47:59.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "ShowAccomodationsWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\View\\ShowAccomodationsWindow.xaml.cs",
+              "RelativeDocumentMoniker": "InitialProject\\View\\ShowAccomodationsWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\View\\ShowAccomodationsWindow.xaml.cs",
+              "RelativeToolTip": "InitialProject\\View\\ShowAccomodationsWindow.xaml.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAjwDEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T16:47:59.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Location.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\Model\\Location.cs",
+              "RelativeDocumentMoniker": "InitialProject\\Model\\Location.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\Model\\Location.cs",
+              "RelativeToolTip": "InitialProject\\Model\\Location.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T16:47:59.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "AccomodationReservationDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\DTO\\AccomodationReservationDTO.cs",
+              "RelativeDocumentMoniker": "InitialProject\\DTO\\AccomodationReservationDTO.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\DTO\\AccomodationReservationDTO.cs",
+              "RelativeToolTip": "InitialProject\\DTO\\AccomodationReservationDTO.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T16:47:59.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "YourRatingsDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\DTO\\YourRatingsDTO.cs",
+              "RelativeDocumentMoniker": "InitialProject\\DTO\\YourRatingsDTO.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\DTO\\YourRatingsDTO.cs",
+              "RelativeToolTip": "InitialProject\\DTO\\YourRatingsDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T16:47:59.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "AccomodationDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\DTO\\AccomodationDTO.cs",
+              "RelativeDocumentMoniker": "InitialProject\\DTO\\AccomodationDTO.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\DTO\\AccomodationDTO.cs",
+              "RelativeToolTip": "InitialProject\\DTO\\AccomodationDTO.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAADwvyYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T16:47:59.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "GuestsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\Repository\\GuestsRepository.cs",
+              "RelativeDocumentMoniker": "InitialProject\\Repository\\GuestsRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\Repository\\GuestsRepository.cs",
+              "RelativeToolTip": "InitialProject\\Repository\\GuestsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T16:47:59.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "GuestRating.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\Model\\GuestRating.cs",
+              "RelativeDocumentMoniker": "InitialProject\\Model\\GuestRating.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\Model\\GuestRating.cs",
+              "RelativeToolTip": "InitialProject\\Model\\GuestRating.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T16:47:59.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "LocationService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\Service\\LocationService.cs",
+              "RelativeDocumentMoniker": "InitialProject\\Service\\LocationService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\Service\\LocationService.cs",
+              "RelativeToolTip": "InitialProject\\Service\\LocationService.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwCgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T16:47:59.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "LocationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\Repository\\LocationRepository.cs",
+              "RelativeDocumentMoniker": "InitialProject\\Repository\\LocationRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\Repository\\LocationRepository.cs",
+              "RelativeToolTip": "InitialProject\\Repository\\LocationRepository.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwDMAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T16:47:59.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "20230606174554_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\SIMS Igor\\InitialProject\\InitialProject\\Migrations\\20230606174554_Initial.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\SIMS Igor\\InitialProject\\InitialProject\\Migrations\\20230606174554_Initial.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\SIMS Igor\\InitialProject\\InitialProject\\Migrations\\20230606174554_Initial.cs",
+              "RelativeToolTip": "..\\..\\..\\SIMS Igor\\InitialProject\\InitialProject\\Migrations\\20230606174554_Initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-06-06T17:45:54.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "FindAvailableWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\View\\FindAvailableWindow.xaml.cs",
+              "RelativeDocumentMoniker": "InitialProject\\View\\FindAvailableWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\View\\FindAvailableWindow.xaml.cs",
+              "RelativeToolTip": "InitialProject\\View\\FindAvailableWindow.xaml.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAmwCkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T16:47:59.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "LocationDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\DTO\\LocationDTO.cs",
+              "RelativeDocumentMoniker": "InitialProject\\DTO\\LocationDTO.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\DTO\\LocationDTO.cs",
+              "RelativeToolTip": "InitialProject\\DTO\\LocationDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T16:47:59.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "20230602231908_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\SIMS Igor\\InitialProject\\InitialProject\\Migrations\\20230602231908_Initial.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\SIMS Igor\\InitialProject\\InitialProject\\Migrations\\20230602231908_Initial.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\SIMS Igor\\InitialProject\\InitialProject\\Migrations\\20230602231908_Initial.cs",
+              "RelativeToolTip": "..\\..\\..\\SIMS Igor\\InitialProject\\InitialProject\\Migrations\\20230602231908_Initial.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-06-02T23:19:08.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "20230526020039_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\SIMS KT2 Igor\\InitialProject\\InitialProject\\Migrations\\20230526020039_Initial.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\SIMS KT2 Igor\\InitialProject\\InitialProject\\Migrations\\20230526020039_Initial.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\SIMS KT2 Igor\\InitialProject\\InitialProject\\Migrations\\20230526020039_Initial.cs",
+              "RelativeToolTip": "..\\..\\..\\SIMS KT2 Igor\\InitialProject\\InitialProject\\Migrations\\20230526020039_Initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-26T02:00:39.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "20230526005753_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\SIMS KT2 Igor\\InitialProject\\InitialProject\\Migrations\\20230526005753_Initial.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\SIMS KT2 Igor\\InitialProject\\InitialProject\\Migrations\\20230526005753_Initial.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\SIMS KT2 Igor\\InitialProject\\InitialProject\\Migrations\\20230526005753_Initial.cs",
+              "RelativeToolTip": "..\\..\\..\\SIMS KT2 Igor\\InitialProject\\InitialProject\\Migrations\\20230526005753_Initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-26T00:57:53.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "20230526012600_initial.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\SIMS KT2 Igor\\InitialProject\\InitialProject\\Migrations\\20230526012600_initial.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\SIMS KT2 Igor\\InitialProject\\InitialProject\\Migrations\\20230526012600_initial.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\SIMS KT2 Igor\\InitialProject\\InitialProject\\Migrations\\20230526012600_initial.cs",
+              "RelativeToolTip": "..\\..\\..\\SIMS KT2 Igor\\InitialProject\\InitialProject\\Migrations\\20230526012600_initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-26T01:26:00.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "20230526011317_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\SIMS KT2 Igor\\InitialProject\\InitialProject\\Migrations\\20230526011317_Initial.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\SIMS KT2 Igor\\InitialProject\\InitialProject\\Migrations\\20230526011317_Initial.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\SIMS KT2 Igor\\InitialProject\\InitialProject\\Migrations\\20230526011317_Initial.cs",
+              "RelativeToolTip": "..\\..\\..\\SIMS KT2 Igor\\InitialProject\\InitialProject\\Migrations\\20230526011317_Initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-26T01:13:17.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "AccomodationReview.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\Model\\AccomodationReview.cs",
+              "RelativeDocumentMoniker": "InitialProject\\Model\\AccomodationReview.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\Model\\AccomodationReview.cs",
+              "RelativeToolTip": "InitialProject\\Model\\AccomodationReview.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T16:47:59.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "AccomodationImagesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\Repository\\AccomodationImagesRepository.cs",
+              "RelativeDocumentMoniker": "InitialProject\\Repository\\AccomodationImagesRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\Repository\\AccomodationImagesRepository.cs",
+              "RelativeToolTip": "InitialProject\\Repository\\AccomodationImagesRepository.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA1wB4AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T16:47:59.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "Tourist.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\Model\\Tourist.cs",
+              "RelativeDocumentMoniker": "InitialProject\\Model\\Tourist.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\Model\\Tourist.cs",
+              "RelativeToolTip": "InitialProject\\Model\\Tourist.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T16:47:59.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "Owner.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\Model\\Owner.cs",
+              "RelativeDocumentMoniker": "InitialProject\\Model\\Owner.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\Model\\Owner.cs",
+              "RelativeToolTip": "InitialProject\\Model\\Owner.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T16:47:59.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "Guide.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\Model\\Guide.cs",
+              "RelativeDocumentMoniker": "InitialProject\\Model\\Guide.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\Model\\Guide.cs",
+              "RelativeToolTip": "InitialProject\\Model\\Guide.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T16:47:59.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "TourImages.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\Model\\TourImages.cs",
+              "RelativeDocumentMoniker": "InitialProject\\Model\\TourImages.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\Model\\TourImages.cs",
+              "RelativeToolTip": "InitialProject\\Model\\TourImages.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T16:47:59.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "Checkpoint.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\Model\\Checkpoint.cs",
+              "RelativeDocumentMoniker": "InitialProject\\Model\\Checkpoint.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\6. SEMESTAR\\SIMS Igor\\InitialProject\\InitialProject\\Model\\Checkpoint.cs",
+              "RelativeToolTip": "InitialProject\\Model\\Checkpoint.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T16:47:59.679Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
